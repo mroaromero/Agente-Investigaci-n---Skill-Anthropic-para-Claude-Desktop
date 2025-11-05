@@ -1,0 +1,74 @@
+Proposals
+We write proposals to request something—permission, resources, sponsorship—or to urge someone to take action. When writing a proposal, it’s crucial to know your audience and to be clear about what you want.
+
+Proposals vary depending on their purpose. In an academic setting, proposals are often written by students or professors to request funding for research. Doctoral candidates are typically required to submit a dissertation proposal to their committee. Businesses use proposals to outline ventures to potential investors or banks or to make in-house suggestions for improvements and projects. Each use brings with it different requirements.
+
+Below are general guidelines for proposals. The exact specifications for your proposal will depend on its intended audience and purpose. Carefully follow any specific instructions you’re given by the prospective reader of your proposal or by your instructor or advisor.
+
+Format
+Proposals can be presented in many ways, including application forms, letters, essays, or formal reports. If a format has not been specified in the call for proposals (CFP) or in your assignment, find a sample for a similar proposal on the internet.
+
+Don’t forget that many readers skim. Make your writing visually appealing by keeping paragraphs reasonably short and using headings. Headings and topic sentences at the beginning of each paragraph will guide readers and allow them to locate information easily.
+
+Choose a professional, readable font and never use less than a 12-point size. If you are filling in a form and the text is too long for the prescribed space, don’t decrease the font size. Instead, edit your work and omit unnecessary words. Easy readability is essential for successful proposals.
+
+Your proposal’s length depends on its purpose. A dissertation proposal is typically 10-20 pages long, whereas a business proposal is usually closer to three pages (although detailed proposals to banks can exceed 20 pages). The important thing is to include all the essential information without boring or overwhelming your readers.
+
+Style
+The style of a proposal is partially dictated by the audience, type of proposal, and purpose. In most proposals, however, the valued style is clear, direct, and unbiased (especially in the technical or scientific disciplines). Technical jargon and common acronyms can be used if the audience is narrow and expert, but be careful. Many proposals go to both expert and non-expert readers for review.
+
+If your proposal is in essay form and is written for a popular audience, the language may be more impassioned or even poetic, but clarity is still valued by most readers. In academic writing, you need to present a logical argument and avoid fallacies.
+
+Parts of a Proposal
+The elements included here are those commonly found in proposals; however, not every proposal requires every element in this order. Use the call for proposals (CFP) form or your assignment, as well as your own judgment about your audience and purpose, to decide what to include.
+
+If you’re unsure about whether or not to include something, ask yourself whether the information would help your readers make an informed decision about the project. Remember, too, that all proposals are ultimately selling something. Use the various sections of the proposal not only to present information, but also to build a persuasive argument for why your idea should be adopted or why you’re the best person to take on a particular project.
+
+Title
+The title should be descriptive and capture the essence of your overall goal.
+Ex.1 “Enhancement of Classroom Instruction in Large-Enrollment, College-Level Classes”
+Ex.2 “Funding of Deep Sea Exploration of Hellenic Ruins in Asia Minor”
+ 
+Abstract
+An informative summary of the project in 250 words or less that includes the problem, the proposed project, the solution or work plan, the implementation method, and the significance of the proposed course.
+
+Cover Page, Table of Contents, List of Figures, List of Appendices
+These are added in long or formal proposals to help the reader find information. If included, they should proceed in this order. You may include a cover page and table of contents without including the others or some other combination of the given items.
+
+Qualifications
+Include your qualifications and those of anyone working on the project to make the reviewers feel you are competent to carry out the plan.
+
+Problem identification
+Also called the statement of purpose, this section explains why the proposed project is worth approval or funding. It explicitly states the problems being addressed or describes the work’s contributions to knowledge in its field. Ideally, this section should convince your readers that the problem is sufficiently grave to merit putting resources into a solution. If possible, outline probable benefits of a solution.
+
+Review of the relevant literature
+Review the most current knowledge on your topic and demonstrate that you know what others experts in the field have to say about it and related matters. Explain your work’s place among these established researchers to give it significance. Does your work replicate another’s study? Does it challenge the views of a prevalent expert? Does it elaborate on someone else’s work and extend it to new areas?
+
+Description of the project, solution, or work plan
+Be specific and realistic about exactly what you will do. If you are proposing to report on personal research at a conference, make it clear you have conducted the research and explain what you have found. If you want to receive money to conduct research, demonstrate that you know exactly how you will proceed. Don’t promise what you can’t deliver: the plan should be feasible and plausible. Never overpromise or inflate, but do show enthusiasm and passion for the project.
+
+Significance
+Describe your work’s contribution to knowledge, whether to your field or to society at large. If you are proposing a method, tell how your method is optimal. Are you offering a new point of view, a new theory, a refinement on an old theory? Are you offering an innovative approach to an old problem or helping solve a new one? How will accepting your proposal benefit your readers? Will they see a tangible or measurable result from your work?
+
+Methods
+At all levels, be as specific as possible about what you will do. You might also address methods others have used and whether you are making refinements to their processes.
+
+Problems
+The problems section is different from problem identification. This section, typically brief, offers a frank acknowledgment of barriers that might impede your progress or derail your project. To offset the negative impact, make it clear that you are thinking through possible problems so they don’t catch you unaware. Give solutions or alternatives you might take to breach potential obstacles.
+
+Budget
+Present your expected costs and revenue (if any) specifically and clearly. Don’t hide costs or lump items together in a way that suggests you’re padding the budget or concealing something. Remember to refer to the CFP for guidelines on the details needed or for limits on your request, both in dollar amounts and in types of expenditures.
+
+Timeline
+The timeline shows you have a realistic view of what you can achieve and how long it will take. It indicates that you’re prepared and have time management skills.
+
+References
+Any research or literature you cited or consulted in preparing your proposal should be cited. Be aware that some readers might skip ahead to the references to see if you’ve included the most current or trusted research.
+
+Appendices: supplementary material or data
+If including data in the report would make it too long, but you feel the information supports your argument, you can place it in an appendix. You can also use appendices for letters of support, copies of surveys, proof from an Institutional Review Board that you have their permission, and so on. If the budget or timeline is long or complex, you might add it to the appendices as well. Separate out each item and label it as an appendix. Include a list of appendices with the table of contents. If something in the appendices is particularly important, make sure you have included a reference to it in the main proposal, usually in parentheses (Appendix 1).
+
+In your final draft, make sure all parts fit together and that all necessary data is included.
+
+Editing
+Following prescribed proposal guidelines is one way to show respect for your readers; another is to proofread the proposal so that it is error-free and readable. Look for grammatical or spelling errors, but also check the accuracy of numbers, dates, and facts. Ask a friend or colleague to proofread your work after you’ve finished reviewing it; a fresh set of eyes will often see problems you’ve missed. No matter how innovative or groundbreaking your ideas are, they will be ignored if your proposal makes you look careless, misinformed, or sloppy.

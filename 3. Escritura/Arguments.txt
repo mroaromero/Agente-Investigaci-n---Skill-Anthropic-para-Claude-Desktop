@@ -1,0 +1,74 @@
+Arguments
+An argument is a claim about a topic that is supported by reasons and evidence. Many academic assignments ask you to make an argument, even though the word “argument” never appears in the directions. For example, if you’re writing or giving a persuasive speech about solar power, you might try to convince your audience that the federal government should invest more money in solar energy technology—you make your argument by stating your reasons and supporting them with evidence.
+
+Choose a Topic
+Avoid “obvious” topics that no one is likely to dispute or subjects that can’t be addressed logically or proven with evidence from unbiased academic sources. Some arguable topics, such as abortion, provoke such strong reactions in an audience that they may be difficult to present in a measured, thoughtful way.  An ideal topic is timely, and it can be debated without being overly controversial. Once you have selected a topic, do some research. After preliminary research, you will be ready to develop a strong thesis.
+
+Build an Argument
+Your basic argument, also called a claim or a thesis, should be stated in your thesis statement. Your thesis statement succinctly puts forth the position you intend to prove. Although a thesis statement is usually only one sentence, it can be a bit longer.
+Topic: Writing requirements for incoming freshmen
+Summary of the issue: The academic community is rethinking how freshmen are given writing instruction.
+Sample Thesis: Incoming freshmen should be required to complete an introductory writing course during their first semester, so they’re adequately prepared for their future courses.
+ 
+In addition to calling for action, an effective thesis might offer an explanation (“The Tories lost the election because …”); give a definition (“The ideal training routine for a weightlifter includes …”); or compare two or more things (“Chemotherapy would be a more effective treatment than surgery in this situation because …”).
+
+There are two main parts to an argument: premises and conclusions. A premise is a statement of evidence or support that justifies or leads to a conclusion. A conclusion is any statement for which evidence or support has been offered. In the following example, two premises are offered as support for the conclusion. (Note: the examples that follow come from classic philosophical discussions about logic. They’re useful for explaining premises, but they would NOT make good topics for an argumentative paper or speech!)
+Ex. Premise: All humans are mortal.
+Premise: Socrates is a human.
+Conclusion: Therefore, Socrates is mortal.
+ 
+Because premises are not obvious truths, they often require support. This means that your argument will likely have two types of conclusions: transitional conclusions and ultimate conclusions. Transitional conclusions are used as premises to support the ultimate conclusion. In the example below, premises 1 and 2 support transitional conclusion A, and premises 3 and 4 support transitional conclusion B.
+Ex. Premise 1: All beings that die are mortal.
+Ex. Premise 2: All humans are beings that die.
+Ex. Transitional Conclusion A: Therefore, humans are mortal.
+Ex. Premise 3: All animals that have reason are human.
+Ex. Premise 4: Socrates is an animal that has reason.
+ Once these two supporting arguments are made, A and B can then be used as premises to support the ultimate conclusion.
+Ex. Transitional Conclusion A: All humans are mortal.
+Ex. Transitional Conclusion B: Socrates is a human.
+Ex. Ultimate Conclusion:Therefore, Socrates is mortal.
+ 
+There are three arguments in this example: the main argument leading to the ultimate conclusion and the two supporting arguments that supply the premises for the main argument.
+
+Because almost no thesis is absolute, you may need to qualify your thesis by pointing out its limits. A statement like “All politicians are untrustworthy” can easily be disproven with only one example of a trustworthy politician. Rather, you can acknowledge exceptions by qualifying the statement: “Many politicians are untrustworthy.” Some helpful qualifiers include perhaps, seems, sometimes, often, some, most, occasionally, probably, and might. Qualifying should be strategic: too much qualifying can weaken your position by limiting its force, while not qualifying at all can weaken your argument by making controversial assertions too strong.
+
+Analyze Your Audience
+Before you develop your argument too fully, consider your audience and what might convince them to agree with you. Will they be fellow students, consumers, concerned citizens, or scholars and researchers in your field? What do they already know about your topic? Do they already have an opinion on the issue? What are their biases? Your evidence will have to appeal to that group, and you’ll have to anticipate and address their likely objections. An academic audience will be most persuaded by facts, research findings, and the authority of experts. They expect you to use reputable, scholarly, and unbiased sources.
+
+Support the Premises
+Now that the argument is in outline format—thesis and supporting arguments—you’ll need to add support for the premises. You can support them with further arguments or with examples, citations from authority, statistics, or data. For every argument that supports your thesis, develop as much evidence as you can. The quality, depth, and amount of support will depend on the scope of the argument and the expectations of the audience. If you state a fact and cite its source, you probably don’t need elaboration. But if you make a statement involving judgment, you may have to elaborate and explain that statement. The more opposition you anticipate, the more you should explain.
+
+It’s important to note that statements do not support conclusions simply because they are used as premises. You have to choose relevant points and avoid fallacies. A fallacy is an error in reasoning, and usually means the argument is weak, unconvincing, or illogical. Name calling, personal attacks, or distortions discredit your argument. Avoid using sources that employ such tactics and never resort to them yourself. (For more on this and other logical and rhetorical fallacies, see the UWC’s handout “Fallacies.”)
+
+Consider Counterarguments
+Skilled arguers don’t ignore evidence that disagrees with or seems to disprove their thesis; they address and refute it. Anticipate the counterarguments your readers might raise. Doing so will help your understand and anticipate your audiences’ viewpoints. Addressing the other side of the issue can strengthen your position and help readers see that you are a reasonable person who has thought carefully about the topic. If you cannot find a way to address a strong counterargument, adjust your thesis.
+
+Counterarguments may target your thesis, your premises, or your supporting points. In many cases, presenting only one counterargument is sufficient, provided that you present the strongest one. First, determine the most contentious element of your argument. Next, identify a strong, fair objection to it. Finally, explain why that objection is inconsequential to your position.
+
+According to authors Graff and Birkenstein, there are three important steps to crafting an effective counterargument:
+Identify the Naysayers – When you provide an example of an objection to your argument, it is helpful to identify who objects. Whenever possible, be specific (and accurate) about who objects to your claim. For example, you might say, “Most liberal philosophers disagree because ….” If you want to add more weight to the counterargument, you might include a specific example: “For example, German philosopher Jurgen Habermas says ….”
+Represent Objections Fairly – Show you understand the other side’s ideas by explaining them fairly and accurately. One sentence is rarely enough to explain your opponents’ position fairly, so dedicate a few sentences, even a paragraph, to explaining their position. In particular, avoid slighting the opposition. In other words, don’t just omit inconvenient points because they undermine your position. Describe the counterargument so opponents would feel you portrayed their ideas properly.
+Answer Objections – Never say, “But that’s just wrong,” and move on. Chances are you will probably agree with some of the better points of the counterargument; conceding to some of the counterargument shows your reader that you are not close-minded. But once you make the concession, show why, in the end, it still does not refute your argument. If you do, in fact, believe the opposing position to be completely wrong, dedicate the time and space to giving a full explanation of why you think that. The more you see wrong with the other side, the more explaining you should do. If you cannot come up with a convincing reply to a counterargument, revise your argument to account for the good point you just discovered.
+
+Employ Rhetorical Devices: Ethos and Pathos
+Appealing to ethos means asking your audience to believe you because you have established credibility on your topic; you can accomplish this by mentioning relevant personal achievements or experiences that convey your expertise, knowledge, good intentions, or good character. You can also show through your references and citations that you have done adequate background reading on your topic.
+
+Appealing to pathos means arousing your audience’s emotions to gain their sympathy and their agreement, for example, playing on their sense of morals or civic duty. Using ethos and pathos is acceptable in an academic argument as long as they support your reasoning and do not overshadow or replace it.
+
+Find Common Ground
+Psychologist Carl Rogers developed a method of argument that begins by finding common ground between the opposing sides. By finding common ground with someone you disagree with, you can reduce hostility, downplay opposition, and focus on cooperation. This strategy is especially helpful for cooperative problem solving, and it can make others more open to your ideas. If you understand the points on which you and others agree, it is easier to understand the points on which you disagree. You might dedicate part of the introduction or an early paragraph to establishing common ground with your audience.
+
+Structure Your Essay
+There are many ways to structure an argument. In the western academic tradition, however, the most common is to begin with an introduction that clarifies your topic and announces your thesis statement. From there, present each reason and the evidence for it in logical order. Another effective option is to begin with your reasons and evidence and lead up to your thesis.
+
+You should also consider the arrangement of your reasons and supporting evidence. Do some of your reasons lead naturally into one another? Does your audience need to agree to one point before they will accept the next? Which reason seems to be the strongest? Typically, writers are advised to discuss their second strongest reason first, then put their weakest reason(s) in the middle, and save their strongest point for last.
+
+Create an Effective Introduction
+There are two basic kinds of opening paragraphs for an argumentative essay: formal and rhetorical. A formal introduction clearly states the thesis and briefly explains the steps you will take to defend that thesis; the structure of a formal introduction will likely reflect the structure of the paper as a whole. On the other hand, a rhetorical introduction explains the importance of your topic by providing a context, including appropriate background information.
+
+The most effective introduction often combines formal and rhetorical elements in a way best suited to that particular argument. If you’re writing an introduction using formal elements, you may want to write it after the essay is structured so that it accurately reflects that structure.
+
+Create a Memorable Conclusion
+Conclusions can be either formal or rhetorical or a combination of both. A formal conclusion mirrors the introduction by restating the thesis and reviewing the main arguments. A rhetorical conclusion relates your claim to a wider perspective or discusses your topic in terms of future applications. A conclusion may include a call to action, in which you urge your audience to take steps to rectify a problem.
+
+A strong conclusion will likely combine both formal and rhetorical elements. For example, after restating your argument, you could explain what it would mean to implement your idea or describe new problems that may arise now that you have solved the one at hand. Using an emotional appeal at this point can have great impact because you have shown that you can approach the topic logically. A strong conclusion will leave your readers feeling informed, prepared to take your ideas away with them, and maybe even moved to make a change.

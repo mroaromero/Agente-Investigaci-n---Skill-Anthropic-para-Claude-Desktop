@@ -1,0 +1,40 @@
+Scientific Writing
+The first thing to know when writing a scientific article or paper is that scientists prefer a clear, precise, accurate, and straightforward style. Avoid flowery language and unsubstantiated generalizations. Whenever possible, use numbers in reporting information (Ex. “Sixty-one percent” rather than “More than half”). Use tables, graphs, charts, and figures to help readers understand your data and be sure all such visuals are labeled correctly.
+
+On other matters of style, there are differences among the disciplines. For instance, some allow the use of first person. (Ex. “We isolated the control group.”) Other disciplines use only third person.(Ex.“ The control group was isolated.”) When in doubt, ask your instructor or study a respected journal to learn the preferred stylistic choices.
+Below is a basic format applicable to most scientific writing.
+
+Abstract
+Because your abstract should give a full summary of your study, it should be the last thing you write, even though it appears first. Be brief. Remember that your abstract is a short summation of your research. Stick to the prescribed word limit. Include the following, keeping each to one or two sentences. You can alter the order if that works best for your research.
+Relate your work to the field. Discuss how your research will fit into the context of your peers’ research and give information essential to understanding your research that readers might not know.
+State the purpose of your research. Your abstract helps readers determine whether your work is related to their own. What problem or issue does your work address?
+Describe your procedure. Give a general overview of the most important methods you used to perform your experiment or do your research.
+Summarize your results. Report your major findings. Results come from your data—for example, measurements—and the trends you find within it.
+Discuss your results. Discuss the implications of your results. What does this mean in relation to other research on the topic? To the issue or problem you addressed?
+Draw some conclusions. Remember, conclusions and results are different. Conclusions are the big picture effects these data and trends will have, the applications or implications for how we view or study the problem or approach the issue.
+Introduction
+The introduction should narrow your subject area to a specific problem, logically leading your reader to the gaps you found in the general understanding of the topic and following with the answers you found to fill those gaps.
+Relate your research to previous research. Introduce your topic, but don’t begin with a vague, broad sentence. For instance, if you’re working with DNA, don’t begin by stating that DNA is crucial to life processes. Instead, relate your research to more local ideas such as a specific question or problem that led you into your particular study of DNA.
+State the problem and objective. Tell your reader what you did and why you did it. In relating your research to previous research, you should be able to create a smooth transition into the specific problem or problems you are investigating. The objective is what you hope to gain by addressing the problem.
+Briefly discuss your results and conclusions. You may feel you’re repeating yourself by again discussing your results and conclusions. That repetition is to be expected, however. Your results and conclusions are the most important parts of your research, so you will refer to them often.
+Methods
+The methods section describes how you conducted your research. It must balance between making your experiments or study replicable and respecting the familiarity of your audience with your research techniques. It‘s best to leave out numerical details (unless absolutely necessary) and discuss only briefly commonly used, well-known procedures. Refer to them by their common names rather than the details of their performance. This is especially true if you used kits, which can simply be referenced by name and serial number.
+Review literature in your field or in the journal you’re submitting to. Models will give you a sense of what is expected from your writing, what format to use, and which aspects of research should be explained in detail.
+Review your lab book and make an outline of your procedures. An outline will help you group procedures together so your methods read fluidly.
+Remember your audience. If your readers are in your field and familiar with the techniques you used, don’t waste time with unnecessary details.
+Justify unorthodox or new methods. If you are importing methods usually used in a different way or creating a new method, your readers will need to understand why so they can better judge your results.
+Results
+The results section should report and explain your findings and apparent trends within those findings. Include numerical data in a table and visual representations of trends in graphs.
+Sketch a brief overview of your methods. This will give context to your results and allow you to easily introduce them. For example, “Optimal enzyme pH was determined through the addition of strong acid to a buffered solution. Analysis of substrate concentration after addition of the enzyme showed . . .”
+Make your information bite-sized. Pick out the most important aspects of your results and include more elaborate information in an appropriate figure.
+Point out trends. This will be essential to transitioning into your discussion. It will lead to your conclusions.
+Explain anomalies. If there are outliers or unexpected results that might affect your findings or alarm your readers, explain them.
+Include explanations with labeled figures. Each figure you include should have an accompanying explanation in the text giving the context of the results. Use the labels so that you can refer the reader to the correct figure.
+Report accurately. Present your findings honestly, resisting the temptation to exaggerate their importance. Even if your research was inconclusive, it can still help others to refine their own understanding of how to investigate the subject.
+Discussion
+Your concluding section is the discussion. The discussion should not be a simple restatement of your findings but should tell your readers why your research and your results matter. You want to convince readers of the relevance of your study to real-world applications or to a body of knowledge.
+Open with a summary. Start the conclusion with a precise summarizing statement of the principle results and prospects for applying them. Don’t hide your main idea; state it first so your readers clearly understand what they’re reading. If your findings are too complicated for a single line, make sure your opening conveys enough information to keep people reading.
+Provide context. Prove to your readers and the scientific community that your findings are important by setting them in the context of relevant scientific literature.
+Explain implications. The implications should be important effects, but they should also be realistic and not exaggerated. You shouldn’t be afraid to say “This matters,” but make sure you can prove it.
+Admit limitations. What would you do to improve the study if you could replicate it? What limitations may have affected your results or conclusions? It’s important to point out any flaws for two reasons: (1) if you don’t, your critics will, and they may not be as generous in explaining them; and (2) your analysis of limitations will help future researchers refine and rethink the problem and methods for studying it.
+Make suggestions for further research. This is not the place to justify the need for research funding, nor is it a place to explain why your work appeared to produce no results. Instead, highlight the important shortcomings of your study that could be addressed by further research or indicate directions future work could take.

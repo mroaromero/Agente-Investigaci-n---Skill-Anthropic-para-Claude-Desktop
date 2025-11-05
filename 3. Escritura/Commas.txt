@@ -1,0 +1,47 @@
+Commas
+Many writers are confused about when to use commas. You may have heard, for instance, that you should use a comma every time you’d take a breath when reading a sentence aloud. That sounds like good advice, but it doesn’t really work. As one TAMU professor asks her students, “Does that mean an Olympic swimmer with great breath control needs fewer commas?” Obviously not. While commas do sometimes indicate pauses, they also have other functions in a sentence, including clarifying relationships between ideas and emphasizing what’s important. Using commas correctly will help your readers understand your meaning. The only way to use them correctly is to learn the rules. Here are some of the more common comma rules.
+
+Introductory Phrases
+Follow an introductory phrase with a comma to let the reader know that the main subject and verb come later. These introductory elements can include single words, short prepositional phrases, or longer dependent clauses.
+Ex.1 Nevertheless, the professor continued his lecture.
+Ex.2 On my first day of school, I was too excited to eat breakfast.
+Ex.3 Since I have a paper to write, I think I’ll skip the party.
+ 
+If the introductory element is short, the comma may be omitted, as long as the meaning is clear without it. Both of the following sentences can be considered correct.
+Ex.1 Today I’m going to finish writing my paper.
+Ex.2 Today, I’m going to finish writing my paper.
+
+Coordinating Conjunctions (or FANBOYS)
+Use a comma before a coordinating conjunction that joins two independent clauses into one sentence (An independent clause is one that can stand alone as a sentence.). There are seven coordinating conjunctions in English. (The word FANBOYS can help you remember them:f or,and, n or, but,or, yet, so.) In the example below, you need a comma before the and because it joins two independent clauses.
+Ex. The end of the play was especially exciting, and I liked the song they sang.
+ 
+If you do NOT have independent clauses on either side of a coordinating conjunction, you don’t need to insert a comma.
+Ex. He likes to eat but doesn’t really like to cook.
+ 
+“Doesn’t really like to cook” is not an independent clause, since it lacks a subject and can’t stand alone as a complete sentence. If you repeated the subject in the second part of the sentence, however, you would need to insert a comma.
+Ex. He likes to eat, but he doesn’t really like to cook.
+
+Nonrestrictive Elements (or “Extra Stuff”)
+Use commas to set off nonrestrictive elements. What are nonrestrictive elements? Those are the parts of a sentence that offer additional information—they’re extra stuff that doesn’t change, or restrict, the meaning of the main sentence. If you can eliminate the element without altering what you’re talking about, then it’s a nonrestrictive element and should be marked off with commas. Consider the following examples, where the commas alter the meaning.
+Ex.1 The experiment, performed on mice, had surprising results. 
+Ex.2 The experiment performed on mice had surprising results.
+ 
+In the first example, it’s as if you’re saying, “The experiment had surprising results. Oh, by the way, the experiment was performed on mice.” In the second example you’re saying, “There were several experiments, but it’s the one performed on the mice that had surprising results.” Now consider the following familiar adage.
+Ex. People who live in glass houses shouldn’t throw stones.
+ 
+You wouldn’t set the phrase “who live in glass houses” off with commas because it’s necessary to identify the group being described. It’s a restrictive element, so you don’t need commas.
+
+Lists
+Separate items in a list with commas. The comma before the and or or at the end of the list (or series) is optional, but it is never wrong to include it. It’s becoming increasingly common to omit this final comma, which is sometimes referred to as an Oxford comma or final serial comma. Either of the following examples is acceptable.
+Ex.1 Last night, I ate mashed potatoes, steak, and corn.
+Ex.2 Last night, I ate mashed potatoes, steak and corn.
+ 
+If you’re submitting an article to a particular publication, check to see if they use the final serial comma or not. If your list seems confusing without the final comma, however, you should include it.
+Ex. The restaurant offers several sandwiches: tuna salad, chicken salad, peanut butter and jelly, roast beef, and ham and cheese.
+
+Adjectives
+Put a comma between coordinate adjectives modifying the same noun. Coordinate adjectives are those that can be joined with and. The following example is acceptable because it would sound quite natural in English to say “charming and thoughtful.”
+Ex. Charming, thoughtful Andrew made sure there was enough food for everybody.
+ 
+If you wouldn’t join the adjectives with and, no comma is necessary. For the following example, you wouldn’t say “Three and blue boats” in English so no comma is necessary.
+Ex. Three blue boats sailed down the river.

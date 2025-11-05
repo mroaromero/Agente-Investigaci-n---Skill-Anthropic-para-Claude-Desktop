@@ -1,0 +1,47 @@
+Flow
+At some point, most writers question the flow of their writing. While flow can be hard to define, the term can refer to both an easy-to-follow progression of ideas and a smooth tone. When your writing flows, it’s easier for readers to understand your ideas. Writing that flows well is also pleasant to read—it’s not clunky, choppy, or discordant. You can improve your writing’s flow by considering the logical connection between your ideas, as well as your transitions and sentence structure. 
+ 
+Connect Your Ideas
+For your writing to flow, readers need to see the logical connection between your ideas. These connections often seem so obvious to you as a writer that you may not feel a need to make them explicit to your readers. But readers typically need more guidance than you think.
+ 
+Help readers follow your ideas by putting them in a familiar framework such as chronological order or a numeric list. For instance, if you’re discussing the benefits of playing video games, you might write, “There are four primary benefits to playing video games” before you describe those specific benefits. Familiar frameworks can be especially useful in academic writing, which often involves complex material. 
+ 
+Another way to help readers follow your ideas is to move from previously discussed information to new. For instance, imagine you’ve already written several sentences about how video games can help improve players’ hand-eye coordination. Now you want to discuss how they can improve players’ critical thinking. Which sentence helps the flow?
+ 
+Ex. 1 Players’ critical thinking can be improved using video games. 
+Ex. 2 In addition to helping with coordination, video games can also improve players’ critical thinking. 
+ 
+The first example might be jarring. The topic of critical thinking seems to come out of nowhere; you’ve been discussing hand/eye coordination, not thinking skills. In contrast, the second example begins with something you’ve already discussed—that video games can help with coordination—so it flows better. The new information (games can improving critical thinking) is introduced after the old, previously introduced information (games can improve coordination). 
+ 
+You can also improve flow by being consistent in how you refer to things. For instance, if you’ve been writing about how students can improve their study habits, it would be confusing to switch from they to you. 
+ 
+Ex. 1 Students should consider when they have the most energy. You should study your hardest subjects then.
+Ex. 2 Students should consider when they have the more energy. They should study their hardest subjects then.
+ 
+The second example has better flow because you continue to refer to these hypothetical students using third person pronouns (such as they and their.) Consistently addressing the students directly with second person (using pronouns such as you and your) would also be fine; but switching between third person and second person can be jarring especially if you switch back and forth repeatedly. 
+ 
+Check for problems with flow by having someone review your work. Ask where they get confused, and then see if you can improve things by providing a framework, moving from old information to new, and being consistent in how you refer to things. 
+ 
+Transition Words and Phrases
+Another key component of flow is using effective transitions, both at the paragraph level and the sentence level. Transitions serve as signposts, guiding readers smoothly through your ideas. Your writing may lack continuity without them. If you’re struggling with incorporating transitions, try reverse outlining.     
+ 
+In reverse outlining, you read over what you’ve already written and create an outline. As you read, ask yourself what each paragraph says—not what you wanted to say, but what you actually wrote. Then, write that idea on your outline. By identifying the main point in each paragraph, you’ll be able to see if you’ve veered off topic or need to rearrange your ideas.  Next, check the transitions and decide if they are most appropriate to establish connections between these ideas. Add transitions if they’re lacking. For instance, if you’re comparing two things, you might use a transition word like similarly. If you’re showing that something happened in sequence, you might use next or then.  See the UWC guide, Transition Words & Phrases for ideas.
+ 
+Compare these examples. The first doesn’t use transitions, while the second does. 
+ 
+Ex. 1 It’s important to practice before giving a slide presentation at a conference. You need to make sure you’re comfortable with the material you’ll be presenting. You should be able to give the presentation without reading it from your slides. You should be able to give it even if your slides are unavailable. You might arrive at the conference venue and find you don’t not have a computer or reliable internet connection.
+Ex. 2 It’s important to practice before giving a slide presentation at a conference. First, you need to make sure you’re comfortable with the material you’ll be presenting. Ideally, you should be able to give the presentation without reading it from your slides. You should, in fact, be able to give it even if your slides are unavailable. After all, you might arrive at the conference venue and find you don’t have access to a computer or a reliable internet connection.   
+ 
+Read your words aloud, or have someone else to read aloud to you, to hear if your sentences move smoothly. 
+ 
+Sentence Structure
+The key to improving flow with sentence structure is variation in both length and type. It’s hard to read writing when all the sentences are short and choppy or when they’re all long and complicated. You typically want to use a mixture—some long, some short, some in-between. Writing longer sentences doesn’t mean being wordy, though. If you tend to write short sentences, try combining them to form longer ones; if you’re more inclined to write longer sentences, break some of them into smaller ones. Reading aloud can help you test this. Listen to the rhythm of your words. 
+ 
+Another technique to improve flow is the use of parallel structure, which refers to putting similar concepts in the same grammatical form. For instance, if you’re listing your hobbies, it might sound clunky to write, “I like to read, cook and singing.” The last item in that list has a different grammatical form than the other two. The list will flow more smoothly if you write, “I like to read, cook, and sing” or “I like reading, cooking, and singing.” 
+ 
+Variation of sentence type is another way to create flow. Vary sentence openers, such as a phrase or a clause, and use pronouns to refer back to important nouns. The examples below show the contrast between using only short sentences of the same type and using a variety of sentence types and lengths.
+ 
+Ex. 1 Reveille is a dog. Specifically, she is a collie. She is the First Lady of Aggieland. She is the official mascot of Texas A&M. She performs many duties. She attends football games. She also goes to other university events. She also attends classes with her student handler during the week. 
+Ex. 2 Reveille is the collie known as the First Lady of Aggieland. As the official mascot of Texas A&M, she attends football games and other campus events. During the week, she also attends classes with her student handler.
+ 
+In addition, to varying the length of sentences, the second example also improves flow by varying the beginnings. Reveille is the subject of every sentence, but not every sentence begins with the words Reveille or she.

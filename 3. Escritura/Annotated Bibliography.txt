@@ -1,0 +1,38 @@
+Annotated Bibliography
+An annotated bibliography is a list of sources used for a research project, whether it’s a dissertation, academic essay, or speech. Annotated bibliographies serve two primary purposes. First, they help researchers keep track of their sources efficiently, serving as a reminder of what each source covers. Second, they are often published and used by other researchers to provide an overview of the available literature on a topic.
+
+Format
+Annotated bibliographies typically include an introduction followed by as many annotations—(that is) notes or comments about a source—as necessary. Individual annotations can range from 150 words to a page in length, depending on the requirements set by an instructor or the needs of the researcher.
+
+Annotated bibliographies should include publishing information (that is, information that helps you go back to the original source) in a consistent style. This handout, for example, uses MLA (Modern Language Association) style. If you are creating a bibliography for a specific purpose, determine the appropriate style. (For example, in the social sciences, you would typically use APA style.) In MLA style, use a hanging indentation format for each citation, and begin each full-sentence annotation on a new line beneath the citation (shown below). If anyone will read the annotated bibliography besides you, write in complete sentences and use academic style. If you will be the sole reader, you can write less formally, but complete sentences are advisable so that you will be able to decipher your own notes.
+
+Ex. Baston, Jane. “Rehabilitating Moll’s Subversion in The Roaring Girl.” Studies in English Literature 1500-1900 37
+             (1997): 317-35.
+       In her article, Baston examines the underlying achievements of Moll's character in The Roaring Girl . .
+
+Annotations
+Annotated bibliographies can fulfill three main purposes. Sometimes all of the following considerations will be necessary for each source, sometimes only one. If you are completing an assignment for a class, make sure you meet your instructor’s requirements.
+
+First, summarize the source, including the source’s thesis, key points, and the most significant detail or evidence supporting those points. If someone asked what this article/book was about, what would you say? What is the purpose of the book or article? What topics are covered? What are the main arguments?
+Ex. Baston claims that the character of Moll challenges male patriarchy both physically and metaphorically. The community of 17th century England is examined, and Baston suggests that Moll is able to subvert the dominant power mechanisms of the time using her charisma.
+ 
+Second, evaluate the source. Does it make a strong argument? Is it logical? Does the author jump to conclusions? Is the data sufficient? Should a wider range of subjects have been tested? Is it biased? Is it useful compared to other sources?
+Ex. Baston supports her arguments through examining church pamphlets and records of the seventeenth century to demonstrate that Moll’s defiance (namely her transgression of cross-dressing) was “contained and eventually incorporated into the prevailing social apparatus” (319).
+ 
+Third, relate the article to your research/thesis. Does it contradict you? Is it easily refutable and is it, therefore, helpful or harmful to your essay? Can you use it in your essay and how? Does it offer statistics valuable to your research? Has it changed how you think about your topic?
+Ex. The societal ideal of the female in Jacobean England became obedience, but Middleton and Dekker’s Moll fought this regression of women. Baston’s research provides substantial evidence that seventeenth-century restrictive binaries of gender construction were failing and in turn were reflected in the era’s drama.
+ 
+Do not merely copy the author’s words—that’s plagiarism and it defeats the entire point of an annotated bibliography. Rewrite each source’s information entirely in your own words so that you will remember it and so that others can know if it is a source they should consult.
+
+Tips
+The first step to a successful annotated bibliography is to know your own argument—or at least to have a general sense of the direction of your paper.
+
+As you locate and read texts to include in the bibliography, take notes to help you remember pertinent information in your annotation. Keep your audience in mind when writing and consider what information will be useful to them. Keep track of both the author’s points and of your reaction to them. Was something particularly memorable? Did something strike you as ridiculous or as a mistaken argument?
+
+Introduction
+Some annotated bibliographies include an introduction. Again, find out what your teacher or publisher requires. The introduction typically tells your reader what your topic/argument is so they understand your reasons for using specific resources and for evaluating or applying them as your entries describe. The introduction gives readers the background they need to understand your annotations. It should be less than a page long and give a basic summary of the research you’re conducting, why you’re conducting it, and the general direction you think your argument will take.
+
+Sample Entry
+Baston, Jane. “Rehabilitating Moll’s Subversion in The Roaring Girl.” Studies in English Literature 1500-1900 37 (1997): 317-35.
+
+     In her article, Baston examines the underlying achievements of Moll Cutpurse, a character in The Roaring Girl. Baston claims that the character of Moll challenges male patriarchy both physically and metaphorically. The community of 17th century England is examined, and Baston suggests that Moll is able to subvert the dominant power mechanisms of the time using her charisma. The author supports her arguments through examining church pamphlets and records of the 17th century to demonstrate that Moll’s defiance (namely her transgression of cross-dressing) was “contained and eventually incorporated into the prevailing social apparatus” (319). The societal ideal of the female in Jacobean England became obedience, but Middleton and Dekker’s Moll fought this regression of women. Baston’s research provides substantial evidence that seventeenth-century restrictive binaries of gender construction were failing and in turn were reflected in the era’s drama.

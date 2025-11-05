@@ -1,0 +1,51 @@
+Fallacies
+Fallacies are, in the words of author Dorothy Seyler, “arguments that don’t work” (142). They may seem convincing at first, but under closer examination, their underlying assumptions don’t hold up. Fallacious arguments may oversimplify, fail to provide adequate evidence, make jumps in logic, or divert attention from the real issues.
+Understanding fallacies will help you spot them in others’ arguments and avoid them in your own. Be sure to read over your writing looking for errors in logic. Imagine you’re a reader who holds an opposing view: what points would you criticize? Also, take a second look at statements with words like always, never, or everyone, since such sweeping generalizations suggest you may be overstating your case.
+
+List of Common Fallacies
+Hasty Generalization. A conclusion about a population or entire group is based on a sample that’s neither large enough nor truly representative.
+Ex. Having met several of them, I can tell you that all Aggies are outgoing.
+ 
+Non sequitur. There is no clear connection between the conclusion and the support of that conclusion. The term non sequitur is Latin for “it does not follow.”
+Ex. Congress will surely approve the education bill, since they already passed the voting reform bill.” [Just because the congress passed one bill doesn’t mean they’ll pass another, unrelated one.]
+ 
+Forced Hypothesis. The explanation (hypothesis) offered for a particular situation is “forced,” or not necessarily true because there’s not enough evidence to draw a conclusion. A forced hypothesis can also stem from failing to consider other plausible explanations.
+Ex. Everyone clapped after Sophia’s recital, so she must be a wonderful pianist.
+ 
+Slippery Slope. The argument claims you cannot proceed with or permit something because it leads to extreme consequences.
+Ex. If we allow the government to legalize marijuana, it will next legalize cocaine and heroin. Before long, our kids will all be addicted to hard drugs.
+ 
+False Dilemma or Either/Or Thinking. An issue is oversimplified because it asserts only two possible alternatives.
+Ex. The university must either raise tuition or face financial ruin. [Maybe there are other ways the university could avert a crisis, such as reducing spending.]
+ 
+False Analogy. Important differences between two things being compared are ignored.
+Ex. We require people to have a license in order to go fishing. We should require them to have a license before they have children.
+ 
+Post Hoc Fallacy. The argument assumes that one event caused another simply because one came before the other one. The term comes from the Latin phrase “post hoc, ergo propter hoc,” which means “after this, therefore because of it.”
+Ex. Our new college president deserves a raise, because enrollment has gone up in the year since she was hired. [Although enrollment went up after the president was hired, that doesn’t mean her hiring necessarily caused the increase; there are probably other factors involved.]
+ 
+Begging the Question or Circular Reasoning. The premises of an argument assume the conclusion is true. This type of fallacy can also assume part of the argument is true without supporting it.
+Ex. Using a cell phone while driving is clearly hazardous, so we should outlaw it altogether. [The author of this argument doesn’t offer proof that driving while using a phone is dangerous, but simply asserts that it is and expects readers to agree with the recommendation.]
+ 
+Red Herring. An irrelevant topic or side issue is introduced to the argument, thereby diverting attention from the relevant debate. The term red herring refers to something that throws you off the scent in your hunt for an answer.
+Ex. The university can’t begin to improve its teaching until it balances its budget.
+ 
+Straw Man. An argument that distorts the viewpoint of the opposition.
+Ex. People who oppose this education bill want us all to go back in time to the age of the one-room school house. Obviously, we live in a different era. [Here the author exaggerates the opposing side’s position, thereby creating a “straw man,” and a man made of straw is easy to defeat.]
+ 
+Bandwagon. The premise of the argument is that everyone else is doing it, so you should, too. The term bandwagon comes from the phrase “jumping on the bandwagon,” which describes joining in with a popular or successful group
+Ex. Everybody cheats in college, so it’s okay for you to plagiarize.
+ 
+Ad Hominem. Arguing by attacking the character of the opposition. This fallacy often takes the form of name-calling. The term ad hominem means “to the man” or “to the person.”
+Ex. The people at the parking office are just control freaks who want to give everyone a ticket.
+ 
+Ad Populum. An argument that appeals to the audience’s presumed shared values. The term ad populum is Latin for “to the people.”
+Ex. As good Texans, we want what’s best for our beloved state, which is why we can all agree that Cowboy Bob is the best candidate for governor.
+ 
+Appeal to the old or the new. An assertion is based on age or novelty, as in something is better simply because it’s traditional or simply because it’s new or a change from the old.
+Ex. (age) The Aggie mascot should be a collie because it has been one since 1944.
+ 
+Ex. (novelty) The Aggie mascot should not be a collie because we need a change.
+ 
+Equivocation. The arguer changes the meaning of a word or a concept within the same argument.
+Ex. In an argument about tradition, the term tradition changes meaning from “a time-honored cultural practice” to “anything we have done three times or more.”

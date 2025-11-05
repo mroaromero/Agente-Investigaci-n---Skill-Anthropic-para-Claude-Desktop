@@ -1,0 +1,49 @@
+Hypotheses
+A basic tool for research is the hypothesis (plural, hypotheses). Just as a good thesis statement guides an argument, a good hypothesis guides some types of research. Constructing a poor hypothesis, however, can impact the quality of research findings. Thus, constructing a good hypothesis can be a key for a successful research project.
+
+What Is It?
+A hypothesis is an educated guess about what conclusions you might be able to draw from an observation, experiment, or data. Because hypotheses are formed from a basis of knowledge about the topic you are researching, a hypothesis is distinct from a research question, which can be posed with only subjective preconceptions or even without any inkling as to what data might show. So, rather than asking a question you hope to answer by researching, a hypothesis predicts what the outcome of the research might be.
+
+When to Write a Hypothesis
+A hypothesis emerges from scientific inquiry. When you discover something you want to explain or a problem you want to solve, think it through and narrow it down to solvable steps. Then construct a hypothesis that you will test by observation or experiment. Because it predicts the outcome of observations, experiments or data, a hypothesis provides an excellent launching point for quantitative research. While a hypothesis is a guess, it is not arrived at haphazardly. The hypothesis should be your best guess—what you think might really be happening.
+ Ex. A fire has rapidly spread out of control in a high-rise building. You hypothesize the fire spread because of a failure in the sprinkler system where the fire originated.
+Hypothesis: if the sprinkler where the fire initiated was operational, the fire would have been contained to one apartment.
+
+How to Write a Hypothesis
+A hypothesis is a statement. Avoid conditional terms like should, might or could.
+
+A hypothesis can be phrased in an if/then format,
+Ex. if you use Topical Treatment A for male pattern baldness, then you will see a 50% increase in hair grown within 3 months.
+
+Another workable structure is when x, then y.
+Ex. When cattle were fed a steady diet of Antibiotic X, then traces of Antibiotic X remained in beef produced for consumers.
+
+A hypothesis may also be a simple statement.
+Ex. Drug A and drug B are equally effective treatment for lowering cholesterol.
+
+A null hypothesis (abbreviated as H0 or Hn) is one that is considered factual and is being used as the basis for further arguments. Often it is set up as a first step in testing an alternative hypothesis.
+Ex. Topical Treatment A is as effective on average as Ingested Drug B for treating male pattern baldness. 
+
+An alternative hypothesis (abbreviated as H1 or HA) uses the results from a rejected null hypothesis to establish its opposite.
+Ex. Topical Treatment A is less effective on average than Ingested Drug B for treating male pattern baldness.The null hypothesis is always treated as the main hypothesis, since it is the one being tested. So in writing up results, do not state that the alternative hypothesis was accepted or rejected. State it instead as follows:
+Ex. H0 is rejected in favor of Hn.
+
+Keep in mind that a hypothesis is not created to make an argument or to push an agenda. You either show it to be verifiable, in which case you accept it, or to be falsifiable, in which case you reject it. It is imperative that, as a researcher, you remain unbiased.
+
+Even a rejected hypothesis can inform a new hypothesis that may be more acceptable. Or it can help you narrow down causes.
+Ex. A fire has rapidly spread out of control in a high-rise building.
+
+Your hypothesis—that the fire spread because of a failure in the sprinkler system where the fire originated—is rejected because you discover that sprinklers near the location where the fire originated was working and should have stopped the fire before it spread to upper floors. You create a new hypothesis: the building’s exterior was constructed with sub-standard materials that was insufficiently fire-proofed.
+
+Testability, Predictability, and Assumptions
+A hypothesis must be testable to be a useful guide to research. You also must be able to demonstrate that it is verifiable or falsifiable. A good hypothesis also predicts what will happen if the same conditions apply, such as, “if you touch a hot stove, then you will suffer a burn.”
+
+A moral or ethical question (for example, whether Aggies should abide by the Aggie Honor Code) would be inappropriate for a hypothesis because it is not testable. How could you test all the possible variations among Aggies, even if you could predict that whenever the code is broken dire consequences would ensue?
+
+To make sure the hypothesis is testable, establish variables that can be observed or measured within it.
+Ex. Topical Treatment A yields a 50% increase of hair in 6 months for males with male pattern baldness as Injected Drug B.
+
+Here, the variables are the two types of drugs that can be tested by counting the number of hairs grown per square inch of scalp in 6 months.
+
+Discussion
+If you are presenting your hypothesis in report format (such as in a lab report), you’ll need a concluding section explaining in detail whether your hypothesis was valid or invalid. This section, labeled “Discussion,” follows your results. In this section, point out factors that may have influenced your result, including variables that both can and can’t be controlled. In the hair loss drug study, a discussion section would address what variables might have affected the data, such as the participants’ general health, nutrition, use of any other hair products or medications. You might explain that you can control the participants’ use of other medications by accepting only participants taking medications known to interact safely with the medication under study, or by requiring a general health assessment for all participants.

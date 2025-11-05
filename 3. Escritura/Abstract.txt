@@ -1,0 +1,24 @@
+Abstracts
+An abstract is a brief statement that conveys a document’s essential information. Abstracts are published in online databases, in conference programs, and at the beginning of articles, reports, and posters. Readers often decide whether or not to read the full document solely on the basis of the abstract, so learning to write a good one is essential. You will also need to create an abstract if you are writing a thesis or dissertation at Texas A&M.
+
+Two Types of Abstracts
+The informative abstract is a brief description of a document’s contents. It usually summarizes the major sections and points of a paper. If you are writing an informative abstract of a scientific or technical paper, it typically summarizes the introduction, methods, results, and discussion sections. A good abstract mirrors the original document in its emphasis. If the original includes a lengthy discussion section and a short methods section, the abstract should similarly devote more words to summarizing the discussion and fewer to methodology. The typical length of an informative abstract is 150 to 700 words.
+
+Ex. This study investigated the effectiveness of Calibrated Peer Review (CPR ) ™ in a senior-level biochemistry class for improving students’ ability to write scientific abstracts. Some students revised scientific abstracts after getting feedback on drafts from CPR; others revised after feedback from a Teaching Assistant.  The writing quality of the abstracts composed with feedback from CPR was compared with the writing quality of the abstracts composed with Teaching Assistant-generated feedback. Statistical analyses of three assignments by 50 students indicated significant differences between CPR and Teaching Assistant feedback on student writing quality. While scores of students who received Teaching Assistant feedback decreased, scores of students who used CPR improved. Students also progressed over the course of a semester in CPR-generated measures of their reviewing abilities.
+
+The descriptive abstract reviews a paper’s contents but does not summarize everything the paper contains. It acts as a guide or a teaser rather than a summary of findings and conclusions; it explains the paper’s purpose and scope but does not give the results or major conclusions.  The goals of a descriptive abstract are to let readers know the topic of a paper and encourage them to read it in full to learn its main points and conclusions. Typically, a descriptive abstract is shorter than an informative abstract and may be only 75 to 100 words.
+
+Ex. This study investigated the effectiveness of Calibrated Peer Review (CPR ) ™ in a senior-level biochemistry class for improving students’ ability to write scientific abstracts. The CPR process for feedback was compared with Teaching Assistant-generated feedback. Statistical analyses of three assignments by 50 students and a separate analysis of the abstracts written by 256 students were used to measure differences in writing quality for each type of feedback.
+
+Remember to include complete citations for any material quoted or referenced in an abstract, although some journals discourage using referential material in the abstract. [The abstracts in the examples above are based on “Development of Student Writing in Biochemistry Using Calibrated Peer Review,” by Yasha Hartberg, Adelet Baris Gunersel, Nancy Simpson, and Valerie Balester, Journal of the Scholarship of Teaching and Learning. 2008.]
+
+Abstract Style
+An abstract should be concise, direct, and clear while including all necessary information.
+State your point once in a straightforward manner and move on.
+Format your abstract into clear, distinct paragraphs—although, often, only one paragraph is needed.
+Follow a logical order that mirrors that of your original document.
+Include only information or ideas found in the longer work; don’t introduce new information.
+Remove unnecessary adjectives (such as “very”) and unnecessary phrases (like “due to the fact that.”)
+Write in full sentences. It’s tempting to save words by omitting nouns (Ex. “Found that dolphins communicate through movement”) but stick to full sentences (Ex. “Researchers found that dolphins communicate through movement.”)
+
+Many publications have specific style requirements for abstracts and will dictate, for example, that you use only present or past tense. For particular requirements, look at samples from journal articles in the field you are writing for.

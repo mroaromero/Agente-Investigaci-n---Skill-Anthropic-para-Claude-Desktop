@@ -1,0 +1,66 @@
+Clear & Concise Writing
+If you struggle with wordiness or have been told your writing is too formal or hard to follow, these tips may help you get some control.
+
+Qualifiers
+Avoid words such as like, really, basically, essentially, or very.
+
+Redundancy
+Delete doubles (full and complete, any and all, first and foremost, honest and true, each and every).
+Delete ideas that are implied (true facts, free gift,each individual).
+Replace negative statements with positive ones when possible (not replaceable = irreplaceable, not dissimilar = similar).
+Turn adjective and noun pairs into adverbs.
+Ex. (Wordy) First and foremost, the pieces must be aligned in an accurate manner.
+Ex. (Concise) First, the pieces must be aligned accurately.
+
+Sentences
+You don’t need transitions (however, but, and, therefore, nevertheless, meanwhile, moreover, consequently) between every sentence or paragraph. You can help readers follow ideas in other ways as well, such as the repetition of a key word or the use of words like this.
+Avoid long opening phrases and clauses at the beginning of sentences. Get to the subject quickly.
+Ex. (Slow start) Whatever results are found during the trials, and they may or may not be favorable, we will stand behind the science. [The subject, we, is the sixteenth word in the sentence.]
+Ex. (Revised) Whatever results are found during the trials, we will stand behind the science. [Here, we is the eighth word, and the reader gets to the meat of the sentence sooner.]
+ 
+Remove interruptions between subjects and verbs.
+Ex. (Interrupted) The report, compiled by fourteen separate government agencies including the Department of Homeland Security and the Department of Defense and featuring more than 3,000 pages and 732 appendices, was confusing.
+Ex. (Revised) The report was confusing, perhaps because it was compiled by fourteen separate government agencies including the Department of Homeland Security and the Department of Defense and was more than 3,000 pages long—not including 732 appendices.
+ 
+Remove interruptions between verbs and objects. Try moving the interrupting element to the beginning or end of the sentence.
+Ex. (Interrupted) We must make, if we want to be respected, sound choices.
+Ex. (Revised) If we want to be respected, we must make sound choices.
+Ex. (Revised) We must make sound choices if we want to be respected.
+ 
+There is/are and It is/are allow for delay and focus attention away from the subject. Avoid them if you want attention on the real subject. (The subject is underlined in the examples below.)
+Ex. There are several syntactic devices that let you manage where you locate units of new information in a sentence.
+Ex. (Revised) Several syntactic devices let you manage where you locate units of new information in a sentence.
+
+Avoid burying the main topic of a sentence in a prepositional phrase.
+Ex. The use of this method would eliminate the problem.
+Ex. (Revised) This method would eliminate the problem.
+ 
+Focus on the “real” verb. Avoid the use of nominalizations (a verb or adverb that is changed into a noun and coupled with a weaker verb).
+Ex. (Nominalization) to effect an installation, to conduct an analysis, to give consideration
+Ex. (Strong verb) to install, to analyze, to consider
+ 
+Keep coordinate elements in the same grammatical structure (parallel structure).
+Ex. (Not parallel) I can’t finish my paper because I am sick, my sister’s wedding, and a computer explosion.
+Ex. (Parallel) I can’t finish my paper because I’m sick, I’m going to my sister’s wedding, and I’m without a computer.
+ 
+Keep modifiers close to what they modify.
+Ex. (Modifier far away) Scientists have learned that their observations are as subjective as those in any other field in recent years.
+Ex. (Modifier close) In recent years, scientists have learned that that their observations are as subjective as those in any other field.
+
+Emphasis
+The topic of a sentence is expected to be its grammatical subject. In most of your sentences, use subjects to name topics (what you want the reader to focus on). You can put greater emphasis on the main subject by putting it in the first clause.
+Ex. Although a great imagination was her gift, writing stories was never Matilda’s strength. [This version puts the focus on writing rather than on Matilda.]
+Ex. Although a great imagination was her gift, Matilda was never very good at writing stories. [This version puts the focus on Matilda.]
+Ex. Matilda was never very good at writing stories although she had the gift of a great imagination. [This version puts the focus on Matilda and puts the main clause first, the most emphatic position.]
+ 
+Place new information, technical terms, or long, complicated phrases at the end of your sentence to give them emphasis and/or avoid confusing your reader.
+Ex. (Beginning position) Lincoln’s claim that the Civil War was God’s punishment of both North and South for slavery appears in the last part of the speech.
+Ex. (End position) In the last part of his speech, Lincoln claims both North and South suffered slavery as a punishment from God.
+ 
+Use passive voice only when you’re not sure who performed an action or when you want to emphasize the thing that was acted upon. (Note that some fields prefer passive voice, such as some scientific disciplines.)
+Ex. (Passive voice) The window was broken. [The writer doesn’t know or doesn’t want to say who broke it.]
+Ex. (Passive voice) The exquisite stained-glass window was broken. [The writer wants to focus the reader’s attention on the window.]
+ 
+For most other instances, stick with active voice.
+Ex. (Active voice) My little brother broke the window. [The writer wants to emphasize the actor. The result is a direct, concise sentence.]
+Ex. (Passive voice) The window was broken by my little brother. [This version is longer, less direct, and shifts emphasis away from the actor. The active version above is preferable, unless the writer has a particular reason for emphasizing the window and deemphasizing the brother.]

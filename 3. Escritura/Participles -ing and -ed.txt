@@ -1,0 +1,57 @@
+Participles: -ing and -ed
+The -ing ending is added to the root of a verb to create a present participle (e.g., play becomes playing). Its function, explained below, is to form the progressive tense or to act as a verbal (a verb used as a noun or adjective).
+
+The -ed (sometimes -en) ending is added to the root of a verb to create a past participle (e.g., play becomes played). Its function is to form the simple past tense (e.g., played), the perfect tense (have, had, or will have played) or to act as a verbal.
+
+Participles as Progressive and Perfect Verbs
+In English, each tense has two forms, simple or progressive. For example, let’s look at the tenses of the word play:
+Simple Present	 I play
+Simple Past	I played
+Simple Future	I will play
+Present Progressive	I am playing
+Present Perfect	I have played
+Past Perfect	I had played
+Future Perfect	I will have played
+Present Perfect Progressive	I have been playing
+Past Perfect Progressive	I had been playing
+Future Perfect Progressive	I will have been playing
+
+The present participle—i.e., the form made by adding -ing to the verb—cannot stand alone: it must be combined with a form of “to be.” For instance, to indicate to someone that you are playing, you wouldn’t say “I playing.” Instead, you would say “I am playing.”
+
+Using the present participle in a compound verb indicates the action is continuous or progressive. Using the past participle in the perfect tense means that the action happened in relation to another event in time, past or future.
+
+Participles as Verbals
+The participle is not only used as a verb—it can also be used as a unique part of speech called a verbal. Verbals are words derived from verbs but used as nouns or adjectives. They convey a sense of action or being while having the properties of an adjective or noun. The two types of verbals are participles and gerunds.
+
+A participle is a verb used as an adjective.
+Ex.  The spinning top collided with the chair leg.
+Ex.  The woven basket was red and black.
+Ex.  The boy throwing the ball tripped on a stick.
+Ex.  Javier, dressed in maroon, made a victory sign.
+
+In the last two examples, above, “throwing the ball” and “dressed in maroon” are participial phrases. These can be set off by commas if they are nonessential to the meaning of the sentence. So “throwing the ball” is the distinguishing adjective for the boy; without it, we wouldn’t know which boy was being referred to, so we don’t use commas around it. In the other example, the participial phrase is a secondary adjective, so we do use commas. In the following example, commas are used to indicate non-essential or secondary information:
+Ex. The top, spinning wildly, collided with the chair leg.
+ 
+Present participles are easy to confuse with progressive verbs. To distinguish between the two,remember that participles always modify another word while progressive verbs are always preceded by a form of “to be.” Note the differences in the following examples:
+Ex. Participle (modifies Tim)  Tim, sleeping soundly, was at his desk.
+Ex. Progressive Verb  Tim was sleeping soundly at his desk.
+ 
+Present participles can also be used as a gerund—a verbal used as a noun.
+Ex. Running is easier with friends.
+ 
+Because gerunds act as nouns, they can take any role a noun takes in a sentence. This makes them easy to distinguish from participles and progressive verb forms. Note the differences in the following examples:
+Ex. Gerund  Tim enjoys sleeping at his desk.
+Ex. Participle  Tim, sleeping, was at his desk.
+Ex. Progressive Verb  Tim was sleeping at his desk.
+ 
+As mentioned earlier, progressive verbs are preceded by a form of the verb “to be.” However, gerunds can also be preceded by a form of “to be” when they are acting as a subject complement.
+Ex. Progressive Verb  Ahmad is throwing the ball.
+Ex. Gerund  Ahmad’s favorite part is throwing the ball.
+ 
+In the first sentence, “is throwing” is a progressive compound verb. Ahmad (the subject) is doing the throwing. In the second sentence, however, is and throwing are not a compound verb. We know this because “Ahmad’s favorite part” (the subject) is not doing the throwing. Instead, throwing is the gerund that is “Ahmad’s favorite part.”
+
+Use this chart for help visualizing the -ing ending and its uses in each part of speech.
+ 	Preceded by a form of to be:	Used as:
+Progressive Verb Ex. He is/was crying.	Always	Verb
+Gerund Ex. Crying is futile. Crying causes problems.	Sometimes	Noun
+Participle Ex. Crying loudly, he ran away.	Never	Adjective

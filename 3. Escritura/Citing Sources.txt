@@ -1,0 +1,41 @@
+Citing Sources
+In academic writing, any time you use direct quotes, ideas, or information that is either not common knowledge or is from outside your own experience, you must cite where you found these things (the source). Although there are many different styles used to document sources (e.g. APA, CME, Chicago, or Turabian), the basic principles of citation are similar. This handout explains those basic principles but uses MLA style for its examples; the details will differ for other styles. See Documentation Styles on the UWC web site (writingcenter.tamu.edu) for details on each style. This handout offers only a brief overview of MLA style; see an MLA handbook for greater detail.
+
+Reasons for Citing
+Cite your sources to show your readers where you found the information and to show that you’ve fully researched your topic and are aware of current thinking on the subject. Readers may use your documentation to go back to your sources and check your work. They also may read your sources to see if they agree with your interpretation or to supplement their own research. In other words, your sources are a paper trail.
+
+This trail has three major markers along the way:
+A reference to the source, regardless of whether you’re summarizing, paraphrasing, or quoting from it directly.
+An in-text citation to show exactly what material you are citing and its origin.
+A list of sources at the end of your document that provides more detailed bibliographic information than the in-text citation.
+You must cite (or document) any idea, conclusion, information, words, visuals, or data directly derived from someone else. Any time you paraphrase or summarize another author, or quote an author directly, you must cite them. You don’t need to document general knowledge, common sayings, self-evident opinions, or conclusions. A good rule of thumb: when in doubt, cite.
+
+In-Text Citations
+In-text citations, as the name implies, are placed in the text immediately after the source material—whether it’s a quotation, paraphrase, or summary—so readers immediately know where the material comes from. The in-text citation uses a shorthand notation that allows readers to locate the full, original document by referring back to the alphabetically-arranged Works Cited page at the end of the document. (In other styles, Works Cited may be called References or Bibliography.)
+
+In-text citations are placed in parenthesis, and usually include the author’s last name and the page number, although this format may change slightly depending on the entry for the source in the Works Cited. In-text citations should clearly reference specific sources from the Works Cited page. For example, if a reference in the Works Cited begins with the author’s last name, then the corresponding in-text citation should begin with the author’s last name, as well. This makes it easier to find the full citation from the in-text citation
+
+List of Sources
+At the end of your paper, you’ll need to include a list of all the sources you’ve cited or consulted, providing complete publishing information for each one. MLA style distinguishes between a Works Cited page which includes only those sources cited in your paper, and a Works Consulted page which lists all the sources you’ve looked at, even those you don’t specifically cite. The MLA handbook suggests that you draft the list of works cited before you begin your paper; that way, you already know what information to include in the parenthetical citations for each source as you write.
+
+Ex. Works Cited entry:
+Herrera, Adriana. “Masters of Migration.” Americas 1 Jul 2009: Research Library, ProQuest. 56-63. Web. 30 June 2010.
+
+Referring to the Source
+Sources are incorporated into researched prose either by quoting, paraphrasing, or summarizing.
+
+Quoting
+Original Source: Between November and late February each year, the trunks and branches of the oyamel fir trees in Michoacán province provide a place for millions of butterflies to shelter themselves from the cold and hibernate. When the sun’s rays warm them, they flutter their wings in a synchronistic movement that produces a subtle and unforgettable music. No less amazing are the elaborate mating rituals that occur in the spring after the butterflies have had a chance to regain their energy (Herrera 58-59).
+ 
+Direct Quotes. A direct quote uses the source's exact words within the context of your own prose. There are two different ways to use direct quotes: in text and block form.
+ 
+In text direct quote: If the quote is four lines of text or less, embed it within your prose and use quotation marks to identify the quote. Note that the quotation’s end-mark punctuation is placed after the citation. Direct quotes should be used only when something has been said so well that you cannot improve upon it, or when you want to report someone’s exact words. Otherwise, paraphrase or summarize the quote.
+Ex.: Monarchs sheltering in Mexico provide a memorable spectacle as they “flutter their wings in a synchronistic movement that produces a subtle and unforgettable music” (Herrera 59).
+Block form direct quote: If the quote is longer than four lines of text, it needs to be placed in a free-standing block of text. Start a new line and indent one inch from the left margin. The text should be double-spaced and left-justified. Note that block quotes are not set off by quotation marks, and that the quotation’s end-mark punctuation is placed before the citation.
+Ex.: Herrera says this about Monarch migration: Between November and late February each year, the trunks and branches of the oyamel fir trees in Michoacán province provide a place for millions of butterflies to shelter themselves from the cold and hibernate. When the sun’s rays warm them, they flutter their wings in a synchronistic movement that produces a subtle and unforgettable music. No less amazing are the elaborate mating rituals that occur in the spring after the butterflies have had a chance to regain their energy (Herrera 59-60).
+Paraphrasing and summarizing
+A paraphrase usually captures a specific part of a text and rewords it, while a summary provides an overall gist. Both still require a citation to tell your reader where the information came from, but they don’t require quotation marks.
+
+Ex. Paraphrased quote: Monarch butterflies make a stop in mid-winter (November to February) to hibernate in the oyamel forests of Michoacán, Mexico. In the spring, they can be observed warming their wings and performing mating rituals (Herrera 59-60).
+ 
+Ex. Summarized quote: Herrara describes the migration and behaviors of monarchs from the Great Lakes to Michoacán, Mexico (Herrera 59-60).

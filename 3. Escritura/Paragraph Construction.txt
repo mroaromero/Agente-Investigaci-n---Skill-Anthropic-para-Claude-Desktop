@@ -1,0 +1,80 @@
+Paragraph Construction
+
+Writers sometimes assume all paragraphs should be a certain length. In fact, acceptable paragraphs can range from one sentence to ten or more. More important than worrying about a specific length is striving to construct paragraphs that have both unity and coherence.
+
+Paragraph Structure and Elements
+In academic writing, the first sentence of a paragraph is usually the topic sentence. It states the main point to be developed or explained in the paragraph. Each subsequent sentence should be relevant to that topic, giving the paragraph unity. If you find your paragraph veering off to a different subject, you’ll either need to move that information elsewhere or delete it.
+
+Each sentence in a paragraph should also be connected to the sentence that precedes it, giving the paragraph coherence. There are several ways to achieve coherence:
+Insert transition words and phrases like “next” or “but” to guide readers through your thought process. (See the UWC’s handout “Transition Words and Phrases” for examples.)
+Repeat key words to keep the reader focused on your main points. You can also improve coherence by using synonyms (“rewriting,” for example, might become “revising”), pronouns (“writers” might become “they”), and different forms of the key term (“write” or “writer” would link back to “writing.”)
+Use parallel structure for ideas that are similar. For instance, to describe how writers procrastinate, you might say: “Writers inevitably find ways to put off writing. They answer their email. They pay their bills. They water their gardens. They do everything but write.” Using the same short subject-verb-object sentence structure in the three example sentences reinforces that the delaying tactics listed are similar.
+Be consistent in number, point of view, and verb tense to keep your readers on track. For example, if you use the plural noun “students” in one sentence, you wouldn’t want to randomly switch to “student” in the next. Likewise, don’t randomly switch between past and present tense.
+Ex. Good writing comes from hard work [topic sentence]. But [transition] hard work [repetition of key word] never scared me. In fact [transition], I relish the challenge of creating something new, no matter how difficult [key word synonym] or time consuming. I have spent weeks on a few pages, months on an essay, and years on a book [parallel structure for similar items].
+
+Beginning a New Paragraph
+There is no set rule for when to begin a new paragraph, but, in general, start a new paragraph when you introduce a new topic, begin your conclusion, or change speakers when writing dialogue.
+
+Professional and journalistic writing leans towards shorter paragraphs, but even in academic writing, paragraphs should not be so long that they overwhelm the reader. Varying the length of paragraphs is an effective means of emphasizing ideas—readers will notice a short paragraph set among longer ones. If your paragraph covers one idea but seems very long, you can break it into multiple paragraphs. For example, if you’re describing an experiment, you might cover all of the steps in the experiment in one paragraph, or, if you need more detail, you can describe each step in its own paragraph.
+
+Organization
+There are several ways to organize a paragraph. For example, try either coordination or subordination. In a paragraph arranged with coordination, each supporting sentence is of equal importance and has the same level of detail. The effect is somewhat like a list.
+Ex. Good writing comes from hard work. First, you plan what you want to say, taking into account your audience. Next, you write down some ideas, do some research, and write a rough draft or outline. After that, you’ll have to write a few more drafts of your work, revising as your ideas develop and as others give you feedback. In the final stages, you should proofread and polish.
+ 
+Or you can structure your paragraph using subordination. With subordination, each sentence further develops the ideas addressed in the sentences before it. The paragraph becomes more specific as it goes on, like a descending staircase, with each sentence taking you deeper into the subject.
+Ex. Good writing comes from hard work. Generating a topic, researching it, and writing the text are all labor-intensive and time-consuming tasks. But many novice writers underestimate the amount of time and effort they need to spend rewriting. Most professional writers revise everything they write, often numerous times. I know one writer who typically goes through ten revisions, even for a simple one-page memo. Even with all that revision, though, many writers still feel their work is unfinished, even after publication.
+ 
+You can combine coordination and subordination. For example, you might create a paragraph listing three equally important pieces of supporting information, each described in a separate sentence [coordination], but develop the last of the three supporting pieces of information in greater detail with one or two subsequent sentences [subordination].
+
+You can also organize a paragraph by following one of several other patterns:
+Enumeration: follow a numerical pattern of one, two, three . . .
+Chronology: use time to tell a story, or explain how a process unfolds.
+Space: start at the top of whatever you are describing and move to the bottom, or move from left to right, inside to outside, etc.
+General to specific/abstract to concrete: although this pattern can be reversed, usually the general statement comes first, followed by supporting details, explanations, and evidence.
+Order of importance: move from the most important point to the least important, or vice-versa.
+
+Developing Paragraphs
+Once you have identified the topic of your paragraph, you need to develop your ideas. Consider these options:
+Examples or testimony: clarify your meaning and help your reader connect to your ideas with specifics.
+Data: use facts and statistics to support your points.
+Analysis: break the topic down into its constituent parts and then analyze each part.
+Comparison and contrast: highlight your idea’s similarities to or differences from another concept.
+Cause and effect: discuss possible causes of the topic and any consequences or effects it may have.
+Definition: consider whether the topic needs a definition. Would a definition help make your point?
+Evaluation: judge the topic’s value or power by examining possible significance and implications.
+Classification: classify the topic into a group to expound on your definition and provide examples in the form of like items.
+Narration: tell a story about the topic.
+
+---------
+
+Transition Words & Phrases
+Transitions give your writing coherence. They’re like road signs, guiding readers through your thoughts. Below are some common transitions, categorized by the type of relationship they describe. While the examples within each category are similar, they are NOT interchangeable. Be sure the transition you’re using suits your meaning.
+
+Categories of Transitions
+
+Sequence
+again, finally, also, and, and then, besides, furthermore, last, moreover, next, still, too, and ordinal numbers such as first, second, third
+
+Time
+after a bit, after a few days, after a while, afterward, as long as, as soon as, at last, at length, at that time, before, earlier, immediately, in the meantime, in the past, lately, later, meanwhile, now, presently, shortly, simultaneously, since, so far, soon, then, thereafter, until, when
+
+Comparison
+again, also, in the same way, likewise, once more, similarly
+
+Contrast
+although, but, despite, even though, however, in contrast, in spite of, instead, nevertheless, nonetheless, notwithstanding, on the contrary, on the one hand…on the other hand, regardless, still, though, yet
+
+Example
+after all, even, for example, for instance, indeed, in fact, of course, specifically, such as, the following example, to illustrate
+
+Cause and Effect
+accordingly, as a result, because, consequently, for this purpose, hence, so, then, therefore, thereupon, thus, to this end
+
+Place
+adjacent to, below, beyond, closer to, elsewhere, far, farther on, here, near, nearby, opposite to, there, to the left, to the right
+
+Concession
+although it is true that, granted that, I admit that, it may appear that, naturally, of course
+
+Summary, Repetition, or Conclusion
+as a result, as has been noted, as I have said, as we have seen, as mentioned earlier, in any event, in conclusion, in other words, in short, on the whole, therefore, to summarize

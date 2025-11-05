@@ -1,0 +1,35 @@
+Analyzing Visual Images
+Visual images, including cartoons, book covers, ads, charts, graphs, photographs, and business logos, aren’t just pretty to look at. They communicate, just as words do. Sometimes they communicate with words, and other times they replace words entirely. You can analyze and evaluate how visual images communicate using the technique of rhetorical analysis.
+
+The Rhetorical Situation
+The first step in rhetorical analysis is to assess the rhetorical situation. The rhetorical situation is made of the following:
+Audience. To understand or evaluate a visual, you’ll need to know the intended audience. For instance, the audience for a scholarly article might be the readers of an academic journal. But there might also be another layer to the audience; for example, a technical graph may be viewed by both managers and engineers, albeit for different purposes.
+Purpose. The creator of the visual image usually has an agenda. The visual may be used to support an argument in a written document or speech, or it may stand alone, such as in the example of a political commentary or critique. The most common rhetorical purposes are to persuade, to express, to explain, to entertain, to illustrate, and to argue.
+Creator/Author. Who created the image you are analyzing? Knowing the creator’s background and credentials can help you understand the purpose of the visual, as well as whether or not the creator is credible and professional.
+Medium. The medium is the means or way of communicating employed. Is the communication being made through aural, visual, or linguistic channels? Very often, the communication employs more than one of these media. Media might include, for example, a photograph or a video of a written page, but any of them might also be combined into one communication.
+Genre. The type of visual image, its genre, can vary depending on the medium. For example, a photograph could be in the category of landscape, action shot, or portrait. Each genre elicits particular expectations.
+
+The image’s style, placement, format, and message will all be influenced by the rhetorical situation.
+
+Elements for Analysis
+When you analyze a visual image, you examine it from different angles and decide how each element functions to reach an audience for a particular purpose. Some of the elements you might consider in your analysis are the following: organization and placement; style; content; and source. As you look at each element, judge it in light of the rhetorical situation. What do you think the image’s creator was trying to accomplish? Is there a central message? Does the image support a thesis developed in any accompanying text? These elements don’t cover all possibilities, though, so don’t forget to research the genre of the visual image you are analyzing.
+
+Organization and Placement
+Organization refers to how the image is composed, and placement refers to how it relates to other elements within a text (such as a page or slide). The composition of an image can be understood as how things are arranged within its borders, that is, its frame. A few things to consider when analyzing composition are:
+Focal point. The viewer will be drawn toward a focal point by lines, shadows, and the way objects are arranged. What is the image’s focal point?
+Background. Does the background compete with, complement, or highlight the foreground?
+Balance and symmetry. Is there harmony between the elements of the image, or do they clash? What is the effect? An asymmetrical image may make one element of an image stand out, for example.
+Perspective. Does the image suggest a point of view, and, if so, is there any significance to this? An image of a car, for example, might be taken so that the road is more prominent, suggesting motion, or so that the car seems static, putting focus on its features.
+
+Proximity describes the relationship of an image to other elements on a page. Images that are grouped together or placed near each other will be seen as a unit. A good designer does not simply fill up a page with images (or images and text) but considers how to group items and how to use empty space, also known as “white space.” Does the image draw your eye to a particular grouping? (Proximity works with words as well as images: if you are listing items, for example, it is easier to read a list grouped in categories delineated with headings than to read a long list with no groupings.)
+
+Style
+You can think about style from the perspective of either the viewer or the creator. From the viewer’s perspective, you might ask what emotions or thoughts the image evokes. Does it appeal more to a sense of logic or to emotions? Or does it use the authority of its creator to create trust in its veracity or agreement with its argument? In thinking about style from the perspective of the image’s creator, you might ask what attitude the image projects. For example, it is humorous, ironic, sarcastic, or serious? Political cartoons often use exaggeration, caricature, and irony for humorous effect, but also to make a serious point.
+
+Color and typography (the type of font) may contribute to the image’s style or tone. Consider, for example, how fonts can have different effects, some seeming more serious and others more playful. Similarly, color can convey moods: highlighter yellow gives a much different impression than light blue.
+
+Content
+What message, if any, does the image convey? For example, a graph or chart may provide data. An illustration may show the steps of a process. A political cartoon may satirize a policy or a politician. A photograph may suggest a product is worth buying. Words and numbers can convey a message when used with an image: a caption, for example, may express the image’s message. Symbols can also convey meaning; for example, a political cartoon may use an American flag to signify patriotism or a donkey to signify the Democratic Party. Colors can also be used as symbols; for example, red, white and blue may symbolize the United States.
+
+Source
+The source of the visual image—i.e., where it was reproduced—should be considered in an analysis, in terms of whether it was biased or neutral, scholarly or promotional. For example, a graph about the effectiveness of a drug should be scrutinized with care if it comes from the stock market report of a pharmaceutical company.

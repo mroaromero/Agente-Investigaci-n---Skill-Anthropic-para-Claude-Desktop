@@ -1,0 +1,135 @@
+Common Grammar Errors
+Errors in your writing not only make you seem careless; they can also frustrate and confuse your readers. Make a habit of proofreading at least twice to catch your errors. But before you can proofread for errors, you have to know what to look for. Below are some of the more common errors. Fix them before you send your writing out into the world. You can also review other UWC handouts on specific rules regarding commas and other punctuation marks, as well as parts of speech such as articles and verbs.
+
+Sentence Structure Errors
+Comma Splices and Run-On Sentences. A comma splice occurs when two or more independent clauses (i.e., clauses that can stand alone as sentences) are joined with only a comma.
+Ex. The airplane flyover is an exciting part of an Aggie football game, watching the band is the best.
+ 
+A run-on sentence occurs when two or more independent clauses are joined with no punctuation.
+Ex. The airplane flyover is an exciting part of an Aggie football game watching the band is the best.
+ 
+You can fix a comma splice or run-on in one of three ways. The first is to put a semi-colon between the two independent clauses. You might want to follow the semi-colon with a transition such as however or therefore. Semi-colons should be used to connect sentences whose subjects are closely related.
+Ex. The airplane flyover is an exciting part of an Aggie football game; however, watching the band is the best.
+ 
+The second option is to add a coordinating conjunction after the comma. The seven coordinating conjunctions are for, and, nor, but, or, yet, and so. (Remember them by thinking of the word FANBOYS). Note that the conjunctions are not interchangeable—each has a specific meaning.
+Ex. The flyover is an exciting part of an Aggie football game, but watching the band is the best.
+ 
+The third option is to turn the two clauses into two separate sentences.
+Ex. The flyover is an exciting part of an Aggie football game. Watching the band is the best, though.
+
+Fragments. A sentence fragment occurs when a sentence is incomplete because it is missing a subject or verb or both.
+Ex. Because I went to Chilifest.
+Ex. Which was ironic during a time of political upheaval and unrest.
+ 
+The examples above are punctuated as if they’re sentences, but they don’t express a complete thought. To fix a sentence fragment, complete the thought. Often the fragment can simply be connected to an adjacent clause.
+Ex. Because I went to Chilifest, I missed class Monday.
+Ex. Claude Monet painted water lilies, which was ironic during a time of political upheaval and unrest.
+ 
+Fragments are not always errors, although they are more common in creative or informal writing than in academic and professional writing. Only use them for effect.
+Ex. It was a time for peaceable revolution. A time to shun confrontation.
+
+Agreement Errors
+Subject-Verb Agreement. A singular subject must have a singular verb (i.e., with an -s or -es in third person).
+Ex. The chicken crosses the road.
+Ex. Hector prays daily.
+ 
+A plural subject must have a plural verb (i.e., without an -s or -es in third person).
+Ex. The chickens cross the road.
+Ex. The fifth graders pray daily.
+ 
+Make sure to find the true subject of the verb. Sometimes an intervening clause confuses things.
+Ex.(correct) The mother, along with her three small children, is sick.
+Ex. (incorrect) The mother, along with her three small children, are sick.
+ 
+Noun-Pronoun Agreement. Pronouns are words, like he, she, they, his, and hers, that refer back to or hold the place of nouns. Pronouns should agree with the nouns they’re representing. Plural nouns should take the pronoun they and possessive pronoun their.
+Ex. The Beatles wanted their music to convey a message, so they created music and lyrics that others would remember.
+ 
+Singular nouns take the gender of the corresponding singular pronoun and singular possessive pronoun unless you want make the sentence is gender neutral. You may use gender neutral pronouns with people.
+Ex. (masculine) Jerry wanted to spend his weekend camping, but he knew he’d have to talk Linda into it.
+Ex. (feminine) Linda had wanted to spend her weekend skiing, but she knew Jerry wanted to go camping.
+Ex. (gender neutral) Jerry wanted to spend their weekend with Linda.
+Ex. (gender neutral) The raccoon got into the ice chest and cut its paw on a sharp knife.
+ 
+Collective Nouns. The simple rules above can become complicated with the introduction of collective nouns and pronouns—words like everyone, all, everybody, committee, and staff. A word that refers to each individual in a group—everybody, everyone, each—takes a singular verb and singular pronoun.
+Ex. Everyone in this store is buying chips.
+Ex. Everybody needs to bring his or her&book to the meeting.
+Ex. Everybody needs to bring their book to the meeting.
+ 
+A word that refers to individuals as one group—committee, staff, faculty—takes a singular verb and singular pronoun.
+Ex. The committee is making a decision.
+ 
+A word that refers to a group of individuals—all, some—takes a plural verb and plural pronoun.
+Ex. Some people are going to the movies.
+Ex. All people listen to their own type of music.
+   
+To be gender neutral, they can be used with a singular but genderless pronoun such as everyone.
+Ex. Everyone has their own opinion.
+ 
+Some people still consider this an error, although it has been accepted by most major style guides. They prefer the use of his, her, or his/her. A compromise is to shift to a plural noun or pronoun.
+Ex. We all have our own opinions.
+ 
+Verb Tense. Sometimes writers change verb tenses halfway through a paragraph, causing confusion. Instead, make sure the verb tenses are consistent.
+Ex. (incorrect) The method we use is interview and survey. We found that most people voted for the candidate whose name is familiar, regardless of the candidate’s political leanings.
+Ex. (correct) The method we use is interview and survey. Our findings indicate that people vote for the candidate whose name is familiar, regardless of the candidate’s political leanings.
+Ex. (correct) The method we used was interview and survey. We found that most people voted for the candidate whose name was familiar, regardless of the candidate’s political leanings.
+
+Modifier Errors
+A modifier is an adjective, adverb, or phrase that adds information to or describes a specific element in a sentence.
+
+Misplaced Modifiers. Modifiers should be placed as close as possible to the word they are modifying. A misplaced modifier is a modifier separated so from its subject that it becomes unclear what it modifies.
+Ex. Broken and beaten, the messy locker room looked like a dungeon to the exhausted Longhorn team.
+ 
+In the above example, the modifier broken and beaten appears to describe the locker room. This meaning, however, is probably not what the author intended. Broken and beaten is really supposed to modify the Longhorn team. To fix a misplaced modifier, simply shuffle your sentence around.
+Ex. Broken and beaten, the exhausted Longhorn team saw the messy locker room as a dungeon.
+ 
+Dangling Modifiers. A dangling modifier occurs when the object or person being modified is missing from the sentence.
+Ex. Drenched and sore, it would be a long time before the next canoeing trip.
+ 
+To fix a dangling modifier, add the subject necessary to make your sentence logical.
+Ex. Drenched and sore, I knew it would be a long time before I’d go canoeing again.
+Ex. Because I was drenched and sore, it would be a long time before I’d go canoeing again.
+
+Miscellaneous Errors
+Homonyms. While the spelling checkers are useful, they have limitations, in part because they don’t recognize homonyms—words that sound the same but are spelled differently. The only way to catch these errors is to proofread carefully, preferably on printed copy.
+Homonyms to watch out for:
+its (possessive) vs. it’s (contraction for it is)
+your (possessive) vs. you’re (contraction for you are)
+their (possessive ) vs. they’re (contraction for they are) vs. there (a place)
+
+Quotation Punctuation. People are often confused about using punctuation marks with quoted material. Periods and commas always belong inside quotation marks.
+Ex. The first line of Dickens’ Tale of Two Cities, “It was the best of times; it was the worst of times,” resonates with many people.
+Ex. Shakespeare’s theme is embodied in Macbeth’s line, “It is a tale told by an idiot, full of sound and fury, signifying nothing.”
+ 
+Question marks, colons (:), and semi-colons (;) are treated differently. If the punctuation is part of the quoted material, it goes inside the quotation marks. If not, it goes outside.
+Ex. He asked, “Did you lie?”
+Ex. Who said “I cannot tell a lie”?
+ 
+Parenthetical Punctuation. When you use parentheses or square brackets, place end punctuation outside the second parenthesis or bracket if the material within it is part of the sentence.
+Ex. Monarchs migrate from the Great Lakes to the forests of Mexico in winter (November to February).
+Ex. Monarchs migrate from the Great Lakes to the forests of Mexico in winter (Herrara 59).
+ 
+If the parenthetical material is within its own sentence, place the end punctuation within the final parenthesis.
+Ex. Monarchs migrate from the Great Lakes to the forests of Mexico in winter. (They are there from November through late February.)
+ 
+Parallelism. Parallelism refers to keeping like elements in the same grammatical form: singing, eating dancing, or to sing, to eat, to dance. It’s a type of stylistic repetition employed by writers for rhythm and impact. A lack of parallel structure can be confusing, especially in regard to lists. The following list is hard to understand.
+Ex. Alexander Hamilton influenced the creation of the United States through his authorship of the Federalist Papers, established the National Bank, and participating in the writing of the Constitution.
+ 
+[Note the items in the list at the end of the sentence are all in different grammatical forms. The first item in the list is a noun, the second is a past-tense verb, and the last is a gerund. You can improve this sentence by making the items in the list parallel.]
+Ex. (nouns) Alexander Hamilton influenced the creation of the United States through his authorship of the Federalist Papers, his establishment of the National Bank, and his help in developing the Constitution.
+Ex. (verbs) Alexander Hamilton impacted the creation of the United States because he authored the Federalist Papers, established the National Bank, and helped in the development of the Constitution.
+Ex. (gerunds) Alexander Hamilton impacted the creation of the United States by authoring the Federalist Papers, establishing the National Bank, and helping to develop the Constitution.
+ 
+That vs. Which. Writers often confuse that and which. Both can function as pronouns in descriptive clauses, but they’re not interchangeable.
+Use that for restrictive clauses. In other words, use that when you are including a description necessary to identify the subject, i.e., a description that restricts (or limits) the meaning of the noun it modifies. Because the phrase is necessary, do not add commas.
+Ex.1 The cat that used to sit on the fence ran away.
+Ex.2 Yesterday, I saw the dress that I want to wear next weekend.
+ 
+In the first example, the speaker is distinguishing the cat that used to sit on the fence from other cats. It’s specifically the fence-sitting cat that ran away. In the second example, the speaker is distinguishing the dress that she wants to wear from other dresses. It’s that particular dress that she saw yesterday.
+
+Use which for nonrestrictive clauses. In other words, use which when you are including extra information that is not necessary to identify the subject being discussed. Because the phrase does not restrict the meaning of the word it modifies, you set it off with commas.
+Ex. The wedding cake, which we’d gotten from Polly’s Bakery, toppled over during the reception.
+Ex. I knew I could do well on the test, which had only multiple-choice questions.
+[Note: If the above subjects were people, you’d substitute who for that and which.]
+ 
+Ex. The boy who is wearing the red cap stole my book.
+Ex. Gertrude, who always attends the Thursday bingo game, is excited about the Scrabble tournament.

@@ -1,0 +1,344 @@
+¿Qué es una hipótesis de investigación?
+Hipótesis general
+Desde la escuela primaria, todos estamos familiarizados con el término "hipótesis". Una hipótesis es una conjetura o predicción basada en hechos que no ha sido demostrada. Es un paso esencial del método científico. La hipótesis de un estudio impulsa la experimentación ya sea para demostrar la hipótesis o refutarla.
+
+Hipótesis de investigación
+Una hipótesis de investigación es más específica que una hipótesis general. Es una predicción fundamentada y esperada, que además es comprobable, del resultado de un estudio.
+
+¿Qué hace que una hipótesis de investigación sea eficaz?
+Una buena hipótesis de investigación es una afirmación clara de la relación entre una(s) variable(s) dependiente(s) y una(s) variable(s) independiente(s) relevante(s) para el estudio y que puede ser refutada.
+
+Lista de comprobación de la hipótesis de investigación
+Una vez que haya escrito una posible hipótesis, asegúrese de que cumple con los siguientes puntos:
+
+Debe ser comprobable: Necesita un medio para probar su hipótesis. Si no puede ponerla a prueba, no es una hipótesis.
+Debe incluir una variable dependiente y una independiente: Debe incluir al menos una variable independiente (causa) y una variable dependiente (efecto).
+El lenguaje debe ser fácil de entender: Sea lo más claro y conciso posible. No debe dejarse nada a la interpretación.
+Debe ser relevante para su tema de investigación: Probablemente no debería hablar de perros y gatos si su tema de investigación es el espacio exterior. Debe ser relevante para su tema.
+Cómo crear una hipótesis de investigación eficaz
+Plantéela primero como una pregunta
+Empiece su hipótesis de investigación desde un enfoque periodístico. Pregúntese una de las cinco preguntas base: Quién, qué, cuándo, dónde o por qué.
+
+Una posible pregunta inicial podría ser: ¿Por qué el cielo es azul?
+
+Haga la investigación preliminar
+Una vez que tenga una pregunta en mente, lea estudios de investigación en torno a su tema. Compile estudios de las revistas académicas.
+
+Si busca información sobre el cielo y por qué es azul, busque información sobre la atmósfera, el clima, el espacio, el sol, etc.
+
+Redacte un borrador de hipótesis
+Una vez que se sienta cómodo con su tema y tenga conocimientos preliminares, cree una hipótesis de trabajo. No se estrese mucho por esto. Su primera hipótesis no es permanente. Considérela como un borrador.
+
+Su primer borrador de hipótesis podría ser: Ciertas moléculas de la atmósfera terrestre son responsables de que el cielo sea de color azul.
+
+Haga que su borrador de trabajo sea perfecto
+Tome su hipótesis de trabajo y perfecciónela. Redúzcala para incluir sólo la información que aparece en la "Lista de comprobación de hipótesis de investigación" anterior.
+
+Ahora que ha escrito su hipótesis de trabajo, redúzcala. Su nueva hipótesis podría ser: La luz del sol que incide en las moléculas de oxígeno del cielo hace que el color del cielo parezca azul.
+
+Escriba una hipótesis nula
+Su hipótesis nula debe ser la opuesta a su hipótesis de investigación. Debe poder ser refutada por su investigación.
+
+En este ejemplo, su hipótesis nula sería: La luz del sol que incide en las moléculas de oxígeno del cielo no hace que el color del cielo parezca azul.
+
+¿Por qué es importante tener una hipótesis clara y comprobable?
+Una de las principales razones por las que un manuscrito puede ser rechazado por una revista es por una hipótesis débil. "Una hipótesis , diseño del estudio o metodología deficientes y el uso inadecuado de las estadísticas son otros motivos de rechazo de un manuscrito", afirman los doctores Ish Kumar Dhammi y Rehan-Ul-Haq en el Indian Journal of Orthopaedics.
+
+Según el Dr. James M. Provenzale en la revista American Journal of Roentgenology, "La afirmación clara de una pregunta de investigación (o hipótesis) en la introducción es fundamental para que los revisores comprendan la intención del estudio de investigación. Lo mejor es exponer claramente el objetivo del estudio en un lenguaje sencillo (por ejemplo: 'Nos propusimos determinar si la condición x produce la condición y'). Un planteamiento insuficiente del problema es una de las razones más comunes para el rechazo de manuscritos".
+
+Las características que hacen que una hipótesis sea débil incluyen:
+
+Variables poco claras
+Falta de originalidad
+Demasiado general
+Demasiado específica
+Demasiado confusa
+No comprobable
+Una hipótesis débil conduce a una investigación y unos métodos débiles. El objetivo de un trabajo de investigación es demostrar o refutar una hipótesis, o demostrar o refutar una hipótesis nula. Si la hipótesis no es una variable dependiente de lo que se estudia, los métodos del trabajo deberían cuestionarse.
+
+Una hipótesis sólida es esencial para el método científico. Una hipótesis establece una supuesta relación entre al menos dos variables y el experimento demuestra o refuta esa relación con significación estadística. Sin una relación probada y reproducible, el documento alimenta la crisis de reproducibilidad. Obtenga más información sobre cómo escribir para la reproducibilidad.
+
+En un estudio publicado en la Revista de Obstetricia y Ginecología de la India por la Dra. Suvarna Satish Khadilkar, esta revisó 400 manuscritos rechazados para ver por qué lo habían sido. Sus estudios revelaron que la metodología deficiente era una de las principales razones por las que los manuscritos enviados habían terminado siendo rechazados.
+
+Aparte de las posibilidades de publicación, el Dr. Gareth Dyke cree que una hipótesis clara contribuye a la eficacia.
+
+"Desarrollar una hipótesis clara y comprobable para su proyecto de investigación implica que no perderá tiempo, energía y dinero con su trabajo", dijo Dyke. "Perfeccionar una hipótesis que sea a la vez significativa, interesante, alcanzable y comprobable es el objetivo de toda investigación eficaz".
+
+Tipos de hipótesis de investigación
+Estos tipos de hipótesis pueden solaparse.
+
+Hipótesis simple
+Una hipótesis simple es una hipótesis en su forma más básica. Muestra la relación de una variable independiente y otra independiente.
+
+Ejemplo: Beber refrescos (variable independiente) todos los días provoca obesidad (variable dependiente).
+
+Hipótesis compleja
+Una hipótesis compleja muestra la relación de dos o más variables independientes y dependientes.
+
+Ejemplo: Beber refrescos (variable independiente) todos los días provoca obesidad (variable dependiente) y enfermedades cardiacas (variable dependiente).
+
+Hipótesis direccional
+Una hipótesis direccional adivina en qué dirección irán los resultados de un experimento. Utiliza palabras como aumento, disminución, mayor, menor, positivo, negativo, más o menos. También se utiliza con frecuencia en estadística.
+
+Ejemplo: Los humanos expuestos a la radiación tienen un mayor riesgo de cáncer que los humanos no expuestos a la radiación.
+
+Hipótesis no direccional
+Una hipótesis no direccional dice que habrá un efecto sobre la variable dependiente, pero no dice en qué dirección.
+
+Hipótesis asociativa
+Una hipótesis asociativa dice que cuando una variable cambia, también lo hace la otra variable.
+
+Hipótesis alternativa
+Una hipótesis alternativa afirma que las variables tienen una relación.
+
+Lo contrario de una hipótesis nula.
+Ejemplo: Una manzana al día evita tener que ir al médico.
+
+Hipótesis nula
+Una hipótesis nula afirma que no existe relación entre las dos variables. Se plantea como lo contrario de lo que afirma la hipótesis alternativa.
+
+Los investigadores utilizan una hipótesis nula para trabajar y poder rechazarla. Una hipótesis nula:
+
+Nunca se puede probar
+Sólo puede rechazarse
+Es lo contrario de una hipótesis alternativa.
+Ejemplo: Una manzana al día no evita tener que ir al médico.
+
+Hipótesis lógica
+Una hipótesis lógica es una explicación sugerida utilizando pruebas limitadas.
+
+Ejemplo: Los murciélagos pueden orientarse en la oscuridad mejor que los tigres.
+
+En esta hipótesis, el investigador sabe que los tigres no pueden ver en la oscuridad, y los murciélagos viven sobre todo en la oscuridad.
+
+Hipótesis empírica
+Una hipótesis empírica también se llama "hipótesis de trabajo". Utiliza el método de ensayo y error y cambia en torno a las variables independientes.
+
+Ejemplos:
+
+Una manzana al día evita tener que ir al médico.
+Dos manzanas al día evitan tener que ir al médico.
+Tres manzanas al día evitan tener que ir al médico
+En este caso, la investigación cambia la hipótesis a medida que el investigador aprende más sobre su investigación.
+
+Hipótesis estadística
+Una hipótesis estadística es una aproximación a una parte de una población o a un modelo estadístico. Este tipo de hipótesis es especialmente útil si está haciendo una afirmación sobre una población grande. En lugar de tener que analizar a toda la población de Illinois, podría utilizar una muestra más pequeña de las personas que viven allí.
+
+Ejemplo: El 70% de las personas que viven en Illinois tienen deficiencia de hierro.
+
+Hipótesis causal
+Una hipótesis causal afirma que la variable independiente tendrá un efecto sobre la variable dependiente.
+
+Ejemplo: Consumir productos del tabaco provoca cáncer.
+
+Conclusiones finales
+Asegúrese de que su investigación está libre de errores antes de enviarla a su revista preferida. Consulte nuestros servicios de edición en lengua inglesa para evitar la posibilidad de que su trabajo sea rechazado.
+
+------------
+
+Una visión general de la hipótesis de investigación
+Por mucho que el término exista en el lenguaje cotidiano, hay un desarrollo detallado que informa la palabra "hipótesis" cuando se aplica a la investigación. Una buena hipótesis de investigación se basa en investigaciones previas y orienta el diseño de la investigación y el análisis de los datos, por lo que es importante comprender cómo definen y entienden los investigadores una hipótesis.
+
+¿Cuál es la definición simple de una hipótesis?
+Una hipótesis es una predicción comprobable sobre un resultado entre dos o más variables. Funciona como una herramienta de navegación en el proceso de investigación, dirigiendo lo que se pretende predecir y cómo.
+
+¿Para qué sirve la hipótesis en la investigación?
+En investigación, una hipótesis sirve como piedra angular de su estudio empírico. No sólo expone lo que se pretende investigar, sino que también proporciona un enfoque estructurado para la recopilación y el análisis de datos.
+
+Esencialmente, tiende un puente entre lo teórico y lo empírico, guiando la investigación a lo largo de todo su curso.
+
+¿Cuál es un ejemplo de hipótesis?
+Si está estudiando la relación entre el ejercicio físico y la salud mental, una hipótesis adecuada podría ser: "El ejercicio físico regular conlleva una mejora del bienestar mental entre los adultos".
+
+Esta afirmación constituye una hipótesis específica y comprobable que se relaciona directamente con las variables que estás investigando.
+
+¿Cómo es una buena hipótesis?
+Una buena hipótesis posee varias características clave. En primer lugar, debe ser comprobable, lo que le permitirá analizar los datos a través de medios empíricos, como la observación o la experimentación, para evaluar si existe un apoyo significativo a la hipótesis. En segundo lugar, una hipótesis debe ser específica e inequívoca, permitiendo comprender claramente la relación esperada entre las variables. Por último, debe basarse en investigaciones o marcos teóricos existentes, para garantizar su pertinencia y aplicabilidad.
+
+Diferentes tipos de hipótesis
+Comprender los tipos de hipótesis puede mejorar mucho la forma de construirlas y trabajar con ellas. Si bien todas las hipótesis cumplen la función esencial de guiar el estudio, los distintos tipos de hipótesis tienen propósitos diferentes. Además, todas las hipótesis contrastan con la hipótesis nula, o la suposición de que no existe una relación significativa entre las variables.
+
+A continuación, exploramos varios tipos de hipótesis para proporcionarle las herramientas necesarias para elaborar hipótesis eficaces para sus necesidades específicas de investigación. Tenga en cuenta que muchos de estos tipos de hipótesis pueden solaparse entre sí, y que el tipo específico que se utilice normalmente dependerá probablemente del área de investigación y de la metodología que esté siguiendo.
+
+Hipótesis nula
+La hipótesis nula es la afirmación de que no existe ningún efecto o relación entre las variables estudiadas. En términos estadísticos, sirve como suposición por defecto de que cualquier diferencia observada se debe al azar.
+
+Por ejemplo, si se estudia el efecto de un fármaco sobre la tensión arterial, la hipótesis nula podría afirmar que el fármaco no tiene ningún efecto.
+
+Hipótesis alternativa
+Contrariamente a la hipótesis nula, la hipótesis alternativa sugiere que existe una relación o efecto significativo entre las variables.
+
+Utilizando el ejemplo del fármaco, la hipótesis alternativa plantearía que el fármaco sí afecta a la tensión arterial. Esto es lo que pretenden demostrar los investigadores.
+
+Hipótesis simple
+Una hipótesis simple hace una predicción sobre la relación entre dos variables, y sólo dos variables.
+
+Por ejemplo, "A mayor tiempo de estudio, mejores notas en los exámenes". En este caso, "tiempo de estudio" y "resultados de los exámenes" son las únicas variables implicadas.
+
+Hipótesis compleja
+Una hipótesis compleja, como su nombre indica, implica más de dos variables. Por ejemplo, "Aumentar el tiempo de estudio y el acceso a los recursos da lugar a mejores calificaciones en los exámenes". En este caso, "tiempo de estudio", "acceso a los recursos" y "resultados de los exámenes" son variables.
+
+Esta hipótesis hace referencia a múltiples variables mediadoras potenciales. Otras hipótesis también podrían incluir predicciones sobre variables que moderan la relación entre la variable independiente y la variable dependiente.
+
+Hipótesis direccional
+Una hipótesis direccional especifica la dirección de la relación esperada entre las variables. Por ejemplo, "Comer más frutas y verduras conduce a una disminución de las enfermedades cardiacas".
+
+En este caso, se predice explícitamente que la dirección de las enfermedades cardiacas disminuye, debido a los efectos de comer más frutas y verduras. Todas las hipótesis suelen especificar la dirección esperada de la relación entre la variable independiente y la dependiente, de forma que los investigadores puedan comprobar si esta predicción se cumple en sus análisis de datos.
+
+Hipótesis estadística
+Una hipótesis estadística es aquella que puede comprobarse mediante métodos estadísticos, proporcionando un valor numérico que puede analizarse. Es habitual en la investigación cuantitativa.
+
+Por ejemplo: "Hay una diferencia estadísticamente significativa en los resultados de los exámenes entre los alumnos que estudian una hora y los que estudian dos".
+
+Hipótesis empírica
+Una hipótesis empírica se deriva de observaciones y se comprueba mediante métodos empíricos, a menudo mediante experimentación o datos de encuestas. Las hipótesis empíricas también pueden evaluarse con análisis estadísticos.
+
+Por ejemplo, "El ejercicio regular está correlacionado con una menor incidencia de la depresión" podría comprobarse mediante encuestas que midan la frecuencia del ejercicio y los niveles de depresión.
+
+Hipótesis causal
+Una hipótesis causal propone que una variable provoca un cambio en otra. Este tipo de hipótesis suele comprobarse mediante experimentos controlados.
+
+Por ejemplo, "Fumar provoca cáncer de pulmón" supone una relación causal directa.
+
+Hipótesis asociativas
+A diferencia de las hipótesis causales, las hipótesis asociativas sugieren una relación entre variables, pero no implican causalidad.
+
+Por ejemplo, "Las personas que fuman tienen más probabilidades de padecer cáncer de pulmón", señala una asociación pero no afirma que fumar cause cáncer de pulmón directamente.
+
+Hipótesis relacionales
+Una hipótesis relacional explora la relación entre dos o más variables, pero no especifica la naturaleza de la relación.
+
+Por ejemplo, "Existe una relación entre la dieta y la salud del corazón" deja abierta a interpretación la naturaleza de la relación (causal, asociativa, etc.).
+
+Hipótesis lógica
+Una hipótesis lógica se basa en un razonamiento sólido y en principios lógicos. Suele utilizarse en la investigación teórica para explorar conceptos abstractos, en lugar de basarse en datos empíricos.
+
+Por ejemplo, "Si todos los hombres son mortales y Sócrates es un hombre, entonces Sócrates es mortal", emplea el razonamiento lógico para demostrar su punto de vista.
+
+Variables en una hipótesis
+En cualquier hipótesis de investigación, las variables juegan un papel crítico. Son los elementos o factores que el investigador manipula, controla o mide. Comprender las variables es esencial para elaborar una hipótesis clara y comprobable y para las fases de investigación posteriores, como la recopilación y el análisis de datos.
+
+En el ámbito de las hipótesis, suele haber dos tipos de variables a tener en cuenta: independientes y dependientes. Las variables independientes son las que usted, como investigador, manipula o cambia en su estudio. Se considera la causa en la relación que estás investigando. Por ejemplo, en un estudio que examine el impacto de la duración del sueño en el rendimiento académico, la variable independiente sería la cantidad de sueño que duermen los participantes.
+
+Por el contrario, la variable dependiente es el resultado que se mide para medir el efecto de la manipulación. Es el efecto en la relación causa-efecto. Por lo tanto, la variable dependiente se refiere al resultado principal de interés en su estudio. En el mismo ejemplo del estudio del sueño, el rendimiento académico, medido quizá por las notas de los exámenes o la nota media, sería la variable dependiente.
+
+Además de estos dos tipos principales, también puede encontrar variables de control. Se trata de variables que podrían influir en el resultado y que, por tanto, se mantienen constantes para aislar la relación entre las variables independientes y dependientes. Por ejemplo, en el estudio del sueño y el rendimiento académico, las variables de control podrían incluir la edad, la dieta o incluso el sujeto de estudio.
+
+Al identificar y comprender claramente el papel de estas variables en su hipótesis, prepara el terreno para un proyecto de investigación metodológicamente sólido. Le ayudará a formular preguntas de investigación concretas, diseñar experimentos u observaciones adecuados y realizar análisis de datos significativos. Es un paso que sienta las bases para el éxito de todo el estudio.
+
+Cómo formular una hipótesis de investigación eficaz
+Elaborar una hipótesis sólida y comprobable es crucial para el éxito de cualquier proyecto de investigación. Sienta las bases para todo, desde el diseño del estudio hasta la recopilación y el análisis de datos. A continuación encontrará algunas consideraciones clave que debe tener en cuenta al formular su hipótesis:
+
+Sea específico: Una hipótesis vaga puede dar lugar a resultados e interpretaciones ambiguos. Defina claramente las variables y la relación prevista entre ellas.
+Garantice la comprobabilidad: Una buena hipótesis debe poder comprobarse por medios empíricos, ya sea mediante la observación, la experimentación u otras formas de análisis de datos.
+Basarse en la bibliografía: Antes de crear su hipótesis, consulte las investigaciones y teorías existentes. Esto no sólo le ayudará a identificar lagunas en los conocimientos actuales, sino que también le proporcionará un contexto y una credibilidad valiosos para elaborar su hipótesis.
+Utilice un lenguaje sencillo: Aunque su hipótesis debe ser conceptualmente sólida, no tiene por qué ser complicada. Procure que la redacción sea clara y sencilla.
+Indique la dirección, si procede: Si su hipótesis implica un resultado direccional (por ejemplo, "aumento" o "disminución"), asegúrese de especificarlo. También tienes que pensar en cómo medirás si el resultado se ha movido o no en la dirección que predijiste.
+Céntrate: Uno de los errores más comunes en la formulación de hipótesis es tratar de responder a demasiadas preguntas a la vez. Mantenga su hipótesis centrada en una cuestión o relación específica.
+Tenga en cuenta las variables de control: Identifique las variables que podrían influir en el resultado y piense en cómo las controlará en el estudio.
+Sea ético: Asegúrese de que su hipótesis y los métodos para probarla cumplen las normas éticas, especialmente si su investigación implica a seres humanos o animales.
+
+Diseñar un estudio en torno a su hipótesis
+El diseño de su estudio implica múltiples fases clave que ayudan a garantizar el rigor y la validez de su investigación. A continuación analizamos estos componentes cruciales con más detalle.
+
+Revisión bibliográfica
+Es esencial empezar con una revisión exhaustiva de la bibliografía. Este paso le permite comprender el conjunto de conocimientos existentes relacionados con su hipótesis y le ayuda a identificar las lagunas que su investigación podría colmar. El objetivo de su investigación debe ser aportar nuevos conocimientos a la bibliografía existente, y sus hipótesis pueden reflejarlo. Una revisión bibliográfica también proporciona información valiosa sobre cómo se han llevado a cabo proyectos de investigación similares, lo que le ayudará a perfeccionar su propio enfoque.
+
+Métodos de investigación
+Elegir los métodos de investigación adecuados es fundamental. Ya se trate de una encuesta, un experimento o un estudio observacional, la metodología debe ser la más adecuada para poner a prueba su hipótesis. La elección de los métodos también dependerá de si la investigación es cuantitativa, cualitativa o mixta. Asegúrate de que los métodos elegidos se ajustan bien a las variables que estás estudiando y al tipo de datos que necesitas.
+
+Investigación preliminar
+Antes de lanzarse a un estudio a gran escala, suele ser beneficioso realizar una investigación preliminar o un estudio piloto. Esto le permite probar sus métodos de investigación a menor escala, perfeccionar sus herramientas e identificar posibles problemas. Por ejemplo, una encuesta piloto puede ayudarle a determinar si sus preguntas son claras y si la encuesta capta eficazmente los datos que necesita. Este paso puede ahorrarle tiempo y recursos a largo plazo.
+
+Análisis de datos
+Por último, planificar el análisis de los datos con antelación es crucial para el éxito del estudio. Decida qué herramientas estadísticas o analíticas son las más adecuadas para su tipo de datos y preguntas de investigación. Para la investigación cuantitativa, puede optar por pruebas t, ANOVA o análisis de regresión. Para la investigación cualitativa, el análisis temático o la teoría fundamentada pueden ser más apropiados. Esta fase es esencial para interpretar los resultados y extraer conclusiones significativas en relación con la pregunta de investigación.
+
+---------
+
+¿Siempre debo plantear una hipótesis?
+No todas las investigaciones se benefician de la formulación de una hipótesis. Un estudio exploratorio no requiere hipótesis, ya que aún no conocemos las variables relacionadas a un fenómeno. Por el contrario, plantear una hipótesis en un estudio descriptivo, correlacional o explicativo nos ayuda a definir las variables con las que queremos trabajar.
+
+HOJA DE RUTA
+Preguntas estratégicas para formular una hipótesis en la metodología cualitativa
+
+Antes	Durante	Después
+¿Cuál es el problema que quiero investigar? ¿Cuál es la pregunta que quiero responder?	¿Conozco las variables que quiero medir? ¿Tengo nociones sobre la relación que existe entre ellas?	¿La hipótesis que escribí es una idea concreta y refutable? ¿Qué debo hacer para ponerla a prueba?
+
+CARACTERÍSTICAS DE LA HIPÓTESIS
+La hipótesis surge de la investigación previa. Puedes formularla posterior a la revisión del marco teórico del problema en el que estás trabajando y en base a los datos y premisas que hayas podido recabar.
+La hipótesis es una afirmación que responde una pregunta. Debe ser la respuesta a la pregunta de trabajo que te planteaste, es decir, un enunciado presumible de la relación entre dos o más variables. Este enunciado debe ser claro, verosímil y concreto.
+La hipótesis es una afirmación que puede ser “testeada” experimentalmente. Recuerda que debes ponerla a prueba, por lo que debe ser observable y estar dentro de tus posibilidades metodológicas y logísticas. En algunos casos, el fenómeno que quieres probar puede no ser observable. En esta situación, la hipótesis debe vincularse a referentes de la experiencia, es decir, definir parámetros que ayuden a observar el fenómeno. Esto se conoce como definición operacional.
+La hipótesis puede ser confirmada o refutada. No importa si la hipótesis se valida o se rechaza: ¡ambos casos constituyen la construcción de conocimiento! El objetivo de una hipótesis no es ser confirmada, sino permitirnos generar un marco de trabajo para ponerla a prueba. De esta forma, reconocemos las variables que nos interesa estudiar y el tipo de análisis que debemos realizar con ellas.
+
+TIPOS DE HIPÓTESIS
+Como hemos visto, la hipótesis se configura como un enunciado que describe el comportamiento de las variables que queremos estudiar. La forma en que se relacionan las variables en la hipótesis determina si se trata de una hipótesis descriptiva, correlacional o explicativa:
+
+Las hipótesis descriptivas hacen predicciones o estimaciones sobre las características de una variable en base a casos comparables o la teoría subyacente. Los estudios descriptivos no requieren hipótesis, ya que no contribuye realmente a definir la metodología de trabajo.
+
+Ej. “Las comunidades rurales de la Región del Biobío presentan niveles severos de escasez hídrica”
+Las hipótesis correlacionales establecen relaciones entre dos o más variables. De esta forma, proponen que dos variables se comportan de forma similar u opuesta, que difieren o son iguales en su magnitud o si siguen o no un mismo comportamiento, entre otras posibles relaciones. La precisión de la hipótesis dependerá de la robustez del marco teórico que la sostiene.
+
+Ej. 1. “Las comunidades rurales de la Región del Biobío tienen mayores índices de escasez hídrica que las de la Región de la Araucanía”
+Ej. 2. “Las comunidades rurales con mayor uso intensivo del suelo para plantaciones forestales tienen más problemas asociados a la escasez hídrica”
+Las hipótesis de causalidad, además de establecer una relación entre las variables, indican causalidad entre ellas. Así, sugieren qué variable es causal (variable independiente) y cuál es la variable efecto o respuesta (variable dependiente). Estas hipótesis establecen una relación temporal entre las variables en que la variable independiente precede a la dependiente.
+
+Ej. “El uso intensivo del suelo para plantaciones forestales en la Región del Biobío genera problemas de escasez hídrica en las comunidades rurales de la zona”
+
+Consejos prácticos
+Los términos y variables descritos deben ser claros y concretos para poder definirlos de manera operacional para que tu investigación sea replicable.
+Las hipótesis deben ser objetivas y no llevar juicios de valor. La predicción planteada debe hacer alusión directa a cómo ocurre el fenómeno en la realidad, evitando adjetivos como “mejor” o “peor”.
+parallax layer
+REVISA UN EJEMPLO
+
+Ejemplo 1: hipótesis correlacional
+Revisaremos una hipótesis correlacional modificada del artículo “Family and gender values in China: Generational, geographic, and gender differences” (Hu & Scott, 2016):
+
+Personas de China occidental y sectores rurales tendrán más familias tradicionales y valores asociados al género que personas de áreas orientales y urbanas del país.
+
+*La hipótesis planteada por los autores incluye dos variables dependientes en función de una variable independiente. Al estar planteada como un único enunciado, no nos facilita determinar si la relación entre la variable independiente y las dos variables dependientes se pondrán a prueba en conjunto o en separado. Dividir la hipótesis en sus unidades más básicas que tengan sentido facilitará el diseño experimental. En este caso, podrían plantearse dos hipótesis:
+
+En China occidental y sectores rurales se encontrarán más familias tradicionales que en áreas orientales y urbanas del país.
+Personas de China occidental y sectores rurales tendrán más valores asociados al género que personas de áreas orientales y urbanas del país.
+ 
+
+Ejemplo 2: hipótesis causal
+A continuación, se presenta una hipótesis causal modificada del artículo “Riparian deforestation, stream narrowing, and loss of stream ecosystem services” (Sweeney, 2004):
+
+En este estudio ponemos a prueba la hipótesis que el estrechamiento de arroyos de agua causada por deforestación ribereña lleva a un declive significativo de la habilidad de los ecosistemas para procesar polución acuática.
+
+*Aunque esta hipótesis pueda parecer compleja, apunta directamente a una causa (estrechamiento de los ríos) y a un efecto (declive en la habilidad para procesar polución) con una direccionalidad explicita. Esta hipótesis decanta fácilmente en un diseño experimental en el que debo medir la habilidad para procesar polución en segmentos de un arroyo bajo distinto nivel de estrechamiento por deforestación.
+
+ 
+
+Ejemplo 3: hipótesis que requieren una definición operacional
+En el artículo “Motivation, autonomy support, and mathematics performance: A structural equation analysis” (Um, Corter & Tatsuoka, 2005), los autores proponen varias hipótesis de trabajo que proponen efectos de cuatro variables independientes (“Motivación intrínseca”, “Regulación externa al estudiante”, “Autopercepción de habilidades matemáticas del estudiante” e “Incentivo a la autonomía en la sala de clases”) sobre una única variable dependiente (“Desempeño matemático”).
+
+H1: Motivación intrínseca del estudiante afecta positivamente el desempeño matemático.
+
+H2: Regulación externa al estudiante afecta negativamente el desempeño matemático.
+
+H3: Autopercepción de habilidades matemáticas del estudiante afecta positivamente el desempeño matemático.
+
+H4: Incentivo a la autonomía en la sala de clases afecta positivamente el desempeño matemático.
+
+H5: Incentivo a la autonomía en la sala de clases afecta significativamente el desempeño matemático a través de la autopercepción de habilidades matemáticas del estudiante.
+
+*Todas las variables del ejemplo anterior requieren del proceso de definición operacional, para determinar cómo se cuantificarán y así poder realizar los análisis estadísticos necesarios para poner a prueba cada hipótesis. Por ejemplo, en el caso de “Motivación intrínseca”, la variable se define como la sumatoria de los puntajes asignados a tres preguntas hechas a estudiantes.
+
+MÁS CONSEJOS PRÁCTICOS
+Una vez que hayas planteado tu hipótesis, responde las siguientes preguntas:
+
+¿Cuántas y cuáles variables involucra?
+¿Es una hipótesis descriptiva, correlacional o de causalidad?
+Si es una hipótesis correlacional o de causalidad, ¿cuáles son las variables dependientes e independientes?
+¿Tiene direccionalidad?
+Si tienes problemas para identificar el tipo de hipótesis que planteaste, busca algunos de estos indicadores:
+
+Si enunciado indica que una variable es mayor o menor bajo diferentes condiciones o que existe diferencia o no existe diferencia entre tratamientos experimentales, es muy probable que estemos frente a una hipótesis correlacional de tipo comparativa.
+Si la hipótesis indica que dos o más variables se relacionan, se correlacionan o siguen la misma tendencia, también estamos hablando de una hipótesis correlacional. En este tipo de hipótesis, también es frecuente ver enunciados como “a mayor variable A, mayor variable B” o “a medida que la variable A disminuye, la variable B aumenta”.
+Si nos encontramos con palabras como “causa”, “explica”, “determina”, “produce” o “genera”, estamos frente a una hipótesis de causalidad.
+Si la hipótesis nos entrega valores estimados o no establece relaciones entre variables, de seguro se trata de una hipótesis descriptiva.
+Para recordar
+La hipótesis es una herramienta de trabajo: tómalo como un ejercicio previo al diseño de objetivos y metodologías. Una buena hipótesis te facilitará elegir la metodología de trabajo más apropiada para resolver tu problema.
+Identifica qué tipo de hipótesis estás planteando. Saber si estás haciendo una comparación, una correlación o identificando relaciones causa-efecto te permitirá conocer cómo procesar la información que hayas recolectado.
+Una hipótesis es una idea o predicción clara, concreta y concisa. Si tu pregunta de investigación es muy amplia o abierta, plantear la hipótesis te ayudara a aterrizar tu problemática a conceptos abordables con los que puedes trabajar.

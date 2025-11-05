@@ -1,0 +1,32 @@
+Active & Passive Voice
+As an author, one of the choices you can make about a sentence is whether to use active or passive voice. Which one you select depends on the circumstances and what you want to emphasize.
+
+Active Voice
+In an active voice sentence, the person or object performing the action is the grammatical subject of the sentence.
+Ex. The English fans purchased most of the tickets for the World Cup final.
+ 
+In the above example, “The English fans,” the group undertaking the action described in the sentence, are also the grammatical subject of the sentence. The emphasis in an active voice sentence is on the actors—in this case, the fans. They carry out the action of the verb. Active sentences are more common in English than passive ones.
+
+Passive Voice
+In a passive voice sentence, the person or object undertaking the action described is NOT the grammatical subject of the sentence.
+Ex. Most of the tickets for the World Cup final were purchased by the English fans.
+ 
+Here the grammatical subject of the sentence is “Most of the tickets.” The group doing the purchasing is relegated to a prepositional phrase: “by the English fans.” They receive the action of the verb. Passive voice sentences are often longer than their active voice counterparts and may be more cumbersome or confusing.
+
+It’s also possible in passive voice to omit any mention of who or what is performing the action.
+Ex. Most of the tickets for the World Cup final were purchased.
+ 
+Here we don’t know who did the purchasing; we know only that it happened. The emphasis is on the tickets.
+
+Deciding Whether to Use Active or Passive Voice
+Many guidebooks suggest that writers should avoid the passive voice whenever possible. While it’s true that active voice lends immediacy to writing and is often the preferred construction, there are times when it’s appropriate to use passive voice.
+
+For instance, passive voice might be the better option if you don’t care who performed the action or if the actor isn’t relevant.
+Ex. Most of the tickets for the World Cup final were purchased by the end of January.
+ 
+Passive voice might also be the better option if you want to shift the emphasis.
+Ex. The last remaining ticket to the World Cup final was purchased yesterday.
+ 
+Here the fact that the last ticket is gone is more significant than who bought it.
+
+Some disciplines, especially those in the sciences, prefer the use of passive voice, in part because the person conducting research is less significant to the writing than the findings or results. Passive voice can, however, lead to convoluted sentence structure and misplaced emphasis. Unless you’re required to use passive voice, you may want to reserve it for times when the actor is unknown or unimportant. If you think your sentences sound stilted or cumbersome, try rewriting any passive constructions as active to see if that improves the flow.

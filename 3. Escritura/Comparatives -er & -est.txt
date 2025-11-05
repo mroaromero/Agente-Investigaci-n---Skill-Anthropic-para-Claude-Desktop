@@ -1,0 +1,62 @@
+Comparatives: -er & -est
+Comparatives indicate a degree of difference between two things. Comparatives in English can be constructed from adjectives or adverbs.
+
+General Comparatives
+Comparative constructions in English use this formula: Subject X {is/has/verb} {MORE/LESS/-er} than Subject Y. Here are examples for each part of speech:
+Ex. Adjective Priyah is faster than Julie.
+Ex. Adjective Sam makes more mistakes than Rasheed.
+Ex. Adverb Robyn speaks faster than I do. 
+Ex. Adverb Raul speaks more precisely than I do.
+
+More versus -er
+As you can see in the above examples, some comparatives are created by placing the word more before the adjective or adverb, while others are created by adding -er to the end of the adjective or adverb. Knowing which construction to use can be confusing. These three guidelines from The Grammar Book, while not foolproof, can help you determine which construction to use.
+
+Use -er with one-syllable adjectives/adverbs (Example 1), with two-syllable adjectives ending in -y, -ple, -ble (Example 2), and occasionally with -tle and -dle (Example 3). Note that the base form of the word may change.
+Ex.1	Ex.2	Ex.3
+tall : taller	happy : happier	idle : idler
+fast : faster	simple: simpler	subtle : subtler
+hard : harder	humble : humbler	 
+
+Either -er or more can be used with two syllable adjectives containing weakly stressed endings, as seen below:
+Ex.1 friendly: friendlier, more friendly
+Ex.2 mellow: mellower, more mellow
+Ex.3 clever: cleverer, more clever
+Ex.4 handsome: handsomer, more handsome
+ 
+Note that there are other two-syllable adjectives without any of the above suffixes which can take either -er or more (e.g., stupid, quiet).
+Use more with adjectives and adverbs of two or more syllables:
+more distant	more arrogant
+more exact	more intelligent
+more useful	more beautiful
+more wretched	more archaic
+
+A few comparatives are irregular, including good/better and bad/worse. You’ll need to memorize these.
+
+Less vs. Fewer
+The distinction between less and fewer is fairly simple to see. Their usage depends on whether or not the noun is countable. (One way to identify a countable noun is to think about whether or not you would put a number in front of it; e.g., “I have three books” sounds perfectly acceptable to an English speaker. But we wouldn’t typically put a number in front of a noncount noun: “I have three informations.” So, book is a count noun and information is a noncount noun.) The rule with comparatives is that fewer is used only with count nouns (Example 1), while less is used only with noncount nouns (Example 2).
+Ex.1 Count Dr. Smith assigns fewer papers than Dr. Lee. 
+Ex.2 Noncount/Uncountable Juan eats less food than Jeanie.
+ 
+Other Comparative Constructions
+Here are a few examples of other comparative constructions you might run into:
+Type of Comparison	Example
+Comparing different properties of the same thing.	The student is smarter than he is athletic.
+Comparing two or more properties of different objects.	My sister loves her dog more than I love chocolate.
+Comparing with a measure as the standard of comparison.	Lisa is shorter than six feet tall.
+Comparing with an absolute adjective as the standard.	Harry is badder than bad.
+Comparison modifying a cardinal number.	Keisha has more than five books.
+Comparison modified by a measure phrase.	Jorge is five years older than Margaret.
+Comparison expressing a progressive change of state.	Cheering for the Aggies is looking more enticing.
+Comparison with “of” plus a predicate noun.	He is more of a fool than I thought.
+Comparison expressing a conditional relationship.	The greater the risk, the bigger the reward.
+Comparison expressing preference.	Pedro looks for trouble more than safety. (i.e., more than = rather than)
+(Table from Celce-Murcia 724)
+
+Superlatives
+Superlatives do not compare two nouns or verbs. Instead, they indicate that one noun or verb is greater than (or superlative to) all the rest. Superlatives are formed following the same rules as comparatives, but using the word most or the -est ending.
+Comparative	Superlative
+Rosa is smarter than we are.	Adjective	Rosa is the smartest.	Adjective
+Sam makes more mistakes than we do.	Adjective	Sam makes the most mistakes.	Adjective
+Theo runs faster than we do.	Adverb	Theo runs fastest.	Adverb
+Simone eats more ice cream than we do.	Adverb	Simone eats the most ice cream.	Adverb
+

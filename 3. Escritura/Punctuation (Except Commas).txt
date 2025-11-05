@@ -1,0 +1,82 @@
+Punctuation (Except Commas)
+Commas and periods are the most commonly used punctuation marks, but knowing the standard uses of the other forms of punctuation, such as hyphens, colons, ellipses, and dashes, can help you write more effectively. Remember: punctuation marks are tools, and knowing how and when to use them can help make your writing clear, precise, and memorable.
+
+Dashes
+There are three different types of dashes: the em-dash, the en-dash, and the hyphen. Note that length is the differentiating characteristic between dashes.
+
+Em-dash ( — ) (The longest). Usually called the dash, the em-dash is the width of the capital M. In Microsoft Word, you can use the Insert Symbol command to insert a dash. There are also keyboard shortcuts to create one. For example, on a Mac, hold the option and shift keys down while you tap the hyphen key. You may sometimes see an em-dash written as two hyphens (–), because that was the only way to form one on a typewriter.
+
+As in the example below, there are no spaces before or after the dash. The dash is used to indicate a break in the flow of the sentence:
+Ex. I’m going to move to College Station—you can live in my house in El Paso—and study at Texas A&M University.
+
+The material enclosed by dashes gets more emphasis than it would if it were set off by parentheses or commas.
+
+En-dash ( – ) (The middle-sized one). The en-dash, which can also be found using Microsoft Word’s Insert Symbol command, is the width of the capital N. It joins two numerals and two nouns of equal weight. Some editors recommend simply using a hyphen (below).
+Ex. 7–6 or $100–$200
+Ex. Bryan–College Station
+
+The en-dash also substitutes for to in some formations (e.g., the vote was 7–6), but it should not be used with from:
+Ex. Not “from May–August,” but “from May to August”
+Ex. Not “it costs from $100,000–$200,000” but “from $100,000 to $200,000”
+
+Hyphen ( – ) (The shortest). The hyphen, which can be found on the keyboard, joins linking adjectives before a noun (Example 1), clarifies words (Example 2), and indicates a word break at the end of a line of text (Example 3).
+Ex. 1 data from a 10-year-old study
+Ex. 2 re-lease meaning to lease again instead of release meaning to let go
+Ex. 3 Univer-
+sity
+
+There is also suspensive hyphenation, used when multiple words are being used as linking adjectives:
+Ex. First- and second-place finishers
+Ex. First-, second-, and third-grade pupils
+Ex. 12- to 18-month subscriptions
+
+Hyphens may also be used when words are combined to form a new term such as mother-in-law or eye-opener. Over time, the hyphen in these kinds of constructions often disappears. For instance, many publications now prefer email rather than e-mail. If you’re not sure whether to hyphenate a compound term, check the style guide you’re using or look at examples of a respected journal for your field.
+
+Semicolons
+The semicolon ( ; ) is used to signify close relationships between sentences and to separate two connected independent clauses not joined by a conjunction like and or but (Example 1). (Independent clauses are clauses that can stand alone as sentences.) Semicolons may also be used to separate items in lists when those items contain commas (Example 2). They are also used in lists that contain long phrases or complete sentences (Example 3).
+
+Ex. 1  But then, Soda is different from anybody; he understands everything, almost (The Outsiders, S. E. Hinton).
+Ex. 2  Respondents were from Chicago, Illinois; Miami, Florida; New Orleans, Louisiana; and College Station, Texas.
+Ex. 3  In his novel, In Our Time, Hemingway illustrates the tensions between men and women in several ways: first, through his juxtaposition between women’s winding speech and men’s terse answers; second, through his portrayal of men’s and women’s bodies; and, finally, through the empty relationships between his main characters.
+
+Colons
+The colon ( : ) can be used to introduce a quotation (Example 1) or to introduce a list (Example 2).
+Ex. 1 In the first chapter of Catcher in the Rye, Holden thinks: “What I was really hanging around for, I was trying to feel some kind of a good-by. I mean I’ve left schools and places I didn’t even know I was leaving them. I hate that” (Salinger).
+Ex. 2 She’d lived in four cities: New York, San Francisco, Dallas, and Miami.
+
+Ellipses
+An ellipsis ( .  .  . ) is three spaced periods with a space on each end. Ellipses (the plural of ellipsis) indicate where words are omitted from quotations.
+Ex. “Life is but a walking shadow, a poor player that frets and struts his hour on stage . . .”
+Ex. “. . . a poor player that frets and struts his hour on stage and then is heard from no more.”
+Ex. “Life is but a walking shadow . . . and then is heard from no more.”
+
+If the material before the omission is a full sentence, put the period at the end of that sentence and then put the spaces and three dots for the ellipsis. (That’s why you sometimes see four dots rather than three.) Ellipses formed with a keyboard command often don’t have the spaces (…) and are sometimes considered incorrect as a result.
+
+Miscellaneous Punctuation
+An apostrophe( ’ ) indicates the omission of a letter or number (Example 1). Apostrophes can be used to indicate possession (Example 2). Apostrophes are also used when discussing the letters of the alphabet in order to avoid confusion (Example 3).
+Ex. 1 don’t, she’ll, class of ‘07
+Ex. 2 Mary’s book, Chris’ book, the Joneses’ house [Note: the possessive form of it—its—does NOT use an apostrophe.]
+Ex. 3 Don’t forget to dot your i’s and cross your t’s.
+
+Parentheses (like this) are always used in pairs. They set aside clarifying information, including references(Example 1), lists (Example 2), or abbreviations (Example 3). Periods go inside parentheses when a whole sentence is within them (Example 4); periods go outside parentheses when only part of a sentence is within them.
+Ex. 1 (Gillum, 2000)
+Ex. 2 precipitation (e.g., rain, fog, snow, dew)
+Ex. 3 Agricultural Communications of Tomorrow (ACT)
+Ex. 4 (See Figure 4.)
+
+Quotation Marks (“double” and ‘single’) appear in two forms. Both indicate speech or a sentence written by another person. There are always used in pairs.
+Double quotation marks are used for written or spoken quoted material, as well as titles of chapters, articles, songs, and dialogue (no matter the length).
+Single quotation marks are used for written or spoken phrases within quotations.
+Ex. In a letter, he wrote, “What you said about ‘realizing yourself as an artist’ struck me as profound.”
+
+Accent Marks ( ´…`… ˆ… ˜… ¨ ) are placed over a letter to aid in pronunciation. They are common in English words borrowed from other languages. Find them with Insert Symbols in Microsoft Word. Often words that had an accent originally are now used without one. Usually, either version is correct, but check a dictionary if you are not sure.
+Ex. résumé is more often resume
+Ex. à la carte is more often a la carte
+Ex. fiancée and fiancé (usually retain the accent mark)
+
+Extra Tidbits
+Spacing after End Marks
+An end mark is a period or any punctuation that ends a sentence. Remember to use only one space after an end mark.
+
+Underlining vs. Italics
+In the days when writing was done on typewriters, underlining was used in place of italics. Anything underlined indicated to the printer to italicize. Now that we have italics available, they are preferred. Use italics instead of underlining for emphasis, to indicate titles, and in headings.
